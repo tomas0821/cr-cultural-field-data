@@ -1,0 +1,65 @@
+{
+ "1.25": {
+  "mean_weighted_degree": 1.1364839888163063,
+  "lam_min": 4.435562683864686e-06,
+  "lam_median": 0.00947379512515855,
+  "n_dropped": 1,
+  "share_slowest_1": 0.23018105390162721,
+  "share_slowest_10": 0.5469382036652571,
+  "share_slowest_50": 0.6847918081902489
+ },
+ "1.5": {
+  "mean_weighted_degree": 1.6497641291852032,
+  "lam_min": 2.692976764288418e-05,
+  "lam_median": 0.04386352421074604,
+  "n_dropped": 1,
+  "share_slowest_1": 0.21180165740440543,
+  "share_slowest_10": 0.5140714190225356,
+  "share_slowest_50": 0.6432877283560395
+ },
+ "2": {
+  "mean_weighted_degree": 2.895192143425376,
+  "lam_min": 0.0001794124554558818,
+  "lam_median": 0.1933416425421087,
+  "n_dropped": 1,
+  "share_slowest_1": 0.18185276024211255,
+  "share_slowest_10": 0.45304428117644036,
+  "share_slowest_50": 0.5674830194616687
+ },
+ "3": {
+  "mean_weighted_degree": 6.112730382261129,
+  "lam_min": 0.0006689795747649742,
+  "lam_median": 0.42853614768936665,
+  "n_dropped": 1,
+  "share_slowest_1": 0.14342328259688164,
+  "share_slowest_10": 0.35175658194654064,
+  "share_slowest_50": 0.44561877715950193
+ },
+ "4.5": {
+  "mean_weighted_degree": 12.321941427314908,
+  "lam_min": 0.0014885658006004879,
+  "lam_median": 0.6071791498007434,
+  "n_dropped": 1,
+  "share_slowest_1": 0.10777866896176087,
+  "share_slowest_10": 0.24499871937260523,
+  "share_slowest_50": 0.32210129611736915
+ },
+ "7": {
+  "mean_weighted_degree": 25.192450526674293,
+  "lam_min": 0.003861309317801969,
+  "lam_median": 0.7124249973744554,
+  "n_dropped": 1,
+  "share_slowest_1": 0.06039506604296426,
+  "share_slowest_10": 0.13619643596625824,
+  "share_slowest_50": 0.2025020590288121
+ },
+ "10": {
+  "mean_weighted_degree": 43.35278131102721,
+  "lam_min": 0.009565972431619288,
+  "lam_median": 0.7566236947755075,
+  "n_dropped": 1,
+  "share_slowest_1": 0.03091410728820767,
+  "share_slowest_10": 0.07438192263047506,
+  "share_slowest_50": 0.13418879211572135
+ }
+}

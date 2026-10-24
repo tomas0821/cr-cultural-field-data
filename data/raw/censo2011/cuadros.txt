@@ -1,0 +1,1742 @@
+                                                              Características Sociales y Demográficas INEC        CENSO 2011        303
+
+
+
+Cuadro 48
+Costa Rica: Indicadores educativos según provincia, cantón y distrito
+                                                                                  Porcentaje       Porcentaje      Porcentaje de
+Provincia, cantón y                            Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                              Población total
+distrito                                      analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                    regular      general básica        más
+
+  Costa Rica                     4 301 712             2,4                8,7           67,2             85,6              57,8
+
+  San José                       1 404 242             1,5                9,5           67,7             86,0              65,1
+
+  San José                         288 054              1,2                9,8           66,3            85,4               70,1
+  Carmen                             2 702              0,9               12,6           76,5            90,3               86,1
+  Merced                            12 257              1,1                9,5           66,0            87,6               70,4
+  Hospital                          19 270              1,4                9,0           63,2            85,8               65,6
+  Catedral                          12 936              0,9               10,6           64,4            86,0               77,1
+  Zapote                            18 679              0,5               11,3           73,0            88,5               81,1
+  San Francisco de Dos Ríos         20 209              0,4               12,0           73,6            86,1               86,0
+  Uruca                             31 728              2,1                8,6           64,6            85,8               57,7
+  Mata Redonda                       8 313              0,7               12,5           73,1            83,9               84,8
+  Pavas                             71 384              1,7                9,3           63,5            84,5               64,4
+  Hatillo                           50 511              1,1                9,4           66,6            83,7               69,3
+  San Sebastián                     40 065              1,0                9,7           67,2            86,9               71,1
+
+
+  Escazú                            56 509              1,0               10,7           69,5            86,9               72,1
+  Escazú                            11 984              0,8               10,3           68,3            87,2               71,2
+  San Antonio                       22 554              1,3                9,1           66,1            86,5               60,4
+  San Rafael                        21 971              0,8               12,6           74,6            87,2               84,2
+
+
+  Desamparados                     208 411              1,4                9,0           67,0            86,8               64,0
+  Desamparados                      33 866              0,9               10,0           67,4            85,9               73,7
+  San Miguel                        31 805              1,1                8,6           67,2            87,8               61,3
+  San Juan de Dios                  19 481              1,7                8,2           66,4            87,8               58,1
+  San Rafael Arriba                 15 262              1,4                9,2           67,4            86,6               65,6
+  San Antonio                        9 727              0,6               10,9           73,7            90,4               78,6
+  Frailes                            3 772              2,4                7,1           64,9            87,9               34,5
+  Patarrá                           11 921              1,9                8,1           65,6            87,5               56,0
+  San Cristóbal                      3 905              1,9                7,2           63,1            82,5               36,3
+  Rosario                            3 088              2,5                7,1           63,7            85,1               36,3
+  Damas                             13 175              1,2                9,5           72,3            89,6               69,3
+  San Rafael Abajo                  23 283              1,0                9,3           67,2            85,8               67,8
+  Gravilias                         15 024              0,8               10,8           73,7            87,4               79,9
+  Los Guido                         24 102              2,4                7,2           61,2            84,5               47,8
+                                                                                                                      continúa...
+304 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                   Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad     de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio        a educación      a educación    secundaria y
+                                                                                     regular      general básica       más
+
+    Puriscal                        33 004              3,3                 8,4           70,6            86,2              54,0
+    Santiago                        11 512              2,3                 9,5           72,7            86,3              65,7
+    Mercedes Sur                     5 866              4,1                 7,9           69,3            83,0              49,3
+    Barbacoas                        3 692              2,0                 8,2           73,2            90,2              51,4
+    Grifo Alto                       1 182              3,5                 7,3           63,6            83,6              40,7
+    San Rafael                       1 730              2,3                 8,1           69,1            87,5              49,9
+    Candelarita                      1 436              3,7                 7,0           70,2            88,2              36,8
+    Desamparaditos                     666              0,5                 9,6           63,4            77,0              62,7
+    San Antonio                      3 889              3,1                 8,4           69,4            87,3              55,2
+    Chires                           3 031              8,7                 6,3           68,6            86,8              33,1
+
+
+    Tarrazú                         16 280              3,5                 7,2           61,7            82,6              38,9
+    San Marcos                       9 993              2,8                 7,8           66,4            86,0              47,0
+    San Lorenzo                      4 394              4,3                 6,3           55,7            79,3              28,7
+    San Carlos                       1 893              6,0                 5,4           53,1            75,7              16,7
+
+
+    Aserrí                          57 892              2,0                 8,2           63,7            84,8              52,7
+    Aserrí                          28 191              1,5                 8,8           65,3            85,7              60,6
+    Tarbaca                          1 446              1,5                 7,6           67,7            87,3              42,5
+    Vuelta de Jorco                  6 499              2,9                 7,5           65,8            83,1              42,8
+    San Gabriel                      6 061              2,7                 7,6           62,4            84,6              44,7
+    Legua                            1 521              7,6                 6,2           59,5            77,9              27,9
+    Monterrey                          498              3,6                 6,1           63,1            86,5              25,7
+    Salitrillos                     13 676              1,5                 7,8           60,2            84,3              49,0
+
+
+    Mora                            26 294              2,0                 9,2           70,5            87,1              59,9
+    Colón                           16 088              1,5                10,0           71,0            87,2              68,2
+    Guayabo                          4 449              1,8                 8,1           72,3            91,2              51,3
+    Tabarcia                         4 703              3,8                 7,6           69,8            86,0              44,9
+    Piedras Negras                     379              2,5                 6,5           71,0            86,8              27,1
+    Picagres                           675              1,5                 7,3           50,0            63,8              35,8
+
+
+    Goicoechea                     115 084              1,0                 9,8           67,5            86,7              70,2
+    Guadalupe                       20 663              0,7                10,8           71,7            88,9              77,9
+    San Francisco                    2 032              0,9                 9,7           64,0            84,2              72,6
+    Calle Blancos                   18 984              1,0                10,5           68,3            85,0              76,2
+    Mata de Plátano                 17 370              0,8                10,6           71,4            87,9              74,5
+                                                                                                                      continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        305
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  Ipís                            26 033              1,1                9,3           68,9            87,9               68,3
+  Rancho Redondo                   2 538              1,8                7,3           61,8            89,2               40,8
+  Purral                          27 464              1,1                8,5           62,4            85,0               60,5
+
+
+  Santa Ana                       49 123              1,3               10,4           69,2            87,1               70,5
+  Santa Ana                       11 320              1,0               11,2           72,6            87,8               76,2
+  Salitral                         4 304              3,5                7,7           62,9            86,7               48,6
+  Pozos                           15 585              1,0               10,9           70,0            86,6               73,4
+  Uruca                            7 200              1,6               10,7           69,2            84,7               71,3
+  Piedades                         8 128              1,0                9,9           67,8            88,9               68,4
+  Brasil                           2 586              1,1                9,3           66,8            88,7               66,1
+
+
+  Alajuelita                      77 603              1,4                8,2           63,0            84,3               58,5
+  Alajuelita                      11 988              1,1                9,0           64,2            86,0               64,6
+  San Josecito                    10 506              1,6                8,6           66,7            85,2               62,2
+  San Antonio                      4 739              1,7                7,9           67,3            89,4               50,6
+  Concepción                      18 721              1,3                8,1           61,4            84,1               57,3
+  San Felipe                      31 649              1,6                7,9           61,8            83,0               56,7
+
+
+  Vázquez de Coronado             60 486              0,9                9,9           70,9            87,3               70,1
+  San Isidro                      16 625              0,7               10,8           74,7            87,8               76,7
+  San Rafael                       7 040              1,9                9,0           67,8            87,5               59,4
+  Dulce Nombre de Jesús            9 744              1,2                9,2           66,5            86,8               65,7
+  Patalillo                       20 349              0,5               10,5           74,6            88,7               76,3
+  Cascajal                         6 728              1,7                8,1           61,9            83,5               51,8
+
+
+  Acosta                          20 209              4,4                7,4           70,5            85,9               42,7
+  San Ignacio                      9 016              2,7                8,4           73,1            85,6               53,0
+  Guaitil                          2 406              4,9                6,5           68,1            84,7               32,9
+  Palmichal                        4 581              3,0                7,5           70,3            90,0               45,3
+  Cangrejal                        1 875              5,5                5,8           68,2            85,7               23,9
+  Sabanillas                       2 331             12,5                5,3           65,0            80,5               22,2
+
+
+  Tibás                           64 842              1,0               10,3           69,6            87,9               73,9
+  San Juan                        21 745              0,7               11,1           74,6            88,8               80,2
+  Cinco Esquinas                   5 925              1,2                8,7           64,2            88,8               63,5
+  Anselmo Llorente                 9 986              0,6               11,8           76,1            89,9               84,8
+                                                                                                                    continúa...
+306 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+ Continuación Cuadro 48...
+                                                                                   Porcentaje       Porcentaje     Porcentaje de
+  Provincia, cantón y                          Porcentaje de      Escolaridad     de asistencia    de asistencia   población con
+                              Población total
+  distrito                                    analfabetismo1/      promedio        a educación      a educación    secundaria y
+                                                                                     regular      general básica       más
+
+   León XIII                        13 661              2,1                 7,6           61,3            86,0              51,5
+   Colima                           13 525              0,8                10,8           71,2            87,8              79,3
+
+
+   Moravia                          56 919              0,8                10,9           72,6            88,6              76,2
+   San Vicente                      30 998              0,6                12,0           75,5            89,3              83,4
+   San Jerónimo                      6 154              1,4                 8,6           66,5            83,7              56,8
+   La Trinidad                      19 767              0,9                 9,7           70,9            89,3              70,0
+
+
+   Montes de Oca                    49 132              0,5                12,0           76,3            88,1              82,8
+   San Pedro                        23 977              0,5                12,3           78,1            88,2              85,9
+   Sabanilla                        10 775              0,5                12,5           79,8            89,5              85,7
+   Mercedes                          4 688              0,5                12,7           81,7            88,4              85,9
+   San Rafael                        9 692              0,9                10,3           66,3            86,6              69,4
+
+
+   Turrubares                        5 512              5,0                 7,0           67,1            86,8              39,5
+   San Pablo                         1 357              3,2                 8,2           77,3            91,9              53,8
+   San Pedro                           646              4,7                 7,2           58,5            89,7              43,5
+   San Juan de Mata                  1 182              5,8                 6,9           63,2            83,8              36,8
+   San Luis                            517              6,2                 6,2           65,5            81,5              30,2
+   Carara                            1 810              5,7                 6,3           64,8            85,8              31,4
+
+
+   Dota                              6 948              2,7                 7,7           65,5            84,4              43,3
+   Santa María                       4 621              2,8                 8,1           69,4            85,7              50,3
+   Jardín                              524              3,9                 6,6           57,1            76,1              27,5
+   Copey                             1 803              2,2                 6,8           58,6            83,9              29,5
+
+
+   Curridabat                       65 206              1,0                10,8           70,1            87,0              73,5
+   Curridabat                       28 817              0,6                11,7           72,8            86,5              80,5
+   Granadilla                       14 778              0,9                10,6           70,6            89,0              72,4
+   Sánchez                           5 364              0,3                13,7           78,6            85,1              92,7
+   Tirrases                         16 247              2,0                 8,0           63,7            86,7              53,5
+
+
+   Pérez Zeledón                   134 534              2,8                 7,7           67,1            84,6              46,2
+   San Isidro de El General         45 327              2,2                 8,8           69,4            85,8              58,5
+   El General                        6 373              2,3                 7,6           66,7            82,7              43,6
+   Daniel Flores                    33 537              2,5                 8,2           69,3            88,0              52,4
+   Rivas                             6 591              2,7                 6,9           66,1            84,7              34,5
+                                                                                                                      continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        307
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  San Pedro                        9 102              4,4                6,1           64,7            83,4               28,3
+  Platanares                       7 203              3,3                6,6           66,8            81,7               32,4
+  Pejibaye                         7 995              4,4                6,2           63,5            80,5               27,8
+  Cajón                            8 542              3,8                6,4           64,6            82,5               31,5
+  Barú                             2 393              2,4                6,6           53,1            79,2               27,4
+  Río Nuevo                        3 061              3,8                6,2           54,8            75,0               26,3
+  Páramo                           4 410              2,5                6,7           62,7            82,3               30,5
+
+
+  León Cortés Castro              12 200              3,4                7,1           61,2            80,6               36,0
+  San Pablo                        4 209              3,0                7,9           67,4            80,7               49,2
+  San Andrés                       1 578              3,0                6,5           63,8            84,3               25,8
+  Llano Bonito                     2 111              5,7                6,4           48,5            70,1               29,6
+  San Isidro                       1 531              3,0                6,6           64,1            86,7               29,9
+  Santa Cruz                       1 665              2,1                6,8           57,2            83,5               30,2
+  San Antonio                      1 106              3,3                6,8           60,6            83,4               29,5
+
+
+  Alajuela                       848 146             3,0                8,1           66,4             85,8              52,5
+
+  Alajuela                       254 886              1,8                8,9           65,9            85,8               59,1
+  Alajuela                        42 975              1,2               10,0           70,6            88,0               70,0
+  San José                        41 656              1,3                9,5           68,7            86,2               65,7
+  Carrizal                         6 856              2,4                7,7           64,4            85,7               46,2
+  San Antonio                     24 971              1,7                8,5           65,3            85,7               56,8
+  Guácima                         20 183              2,1                8,1           64,5            86,4               51,2
+  San Isidro                      17 294              2,5                8,1           63,9            84,3               51,9
+  Sabanilla                        9 059              3,4                7,1           55,6            78,3               39,9
+  San Rafael                      26 248              1,6                8,6           63,4            85,4               56,8
+  Río Segundo                     10 794              2,0                8,6           64,8            85,6               58,4
+  Desamparados                    26 109              1,2                9,3           65,7            85,1               64,1
+  Turrúcares                       7 630              3,0                8,0           63,8            85,4               50,7
+  Tambor                          10 992              2,3                7,9           64,6            86,6               48,5
+  Garita                           7 277              2,8                8,8           68,0            88,0               57,3
+  Sarapiquí                        2 842              4,1                6,9           65,8            86,0               37,1
+
+
+  San Ramón                       80 566              2,5                8,5           69,2            87,0               55,6
+  San Ramón                        8 717              0,9               10,8           77,1            91,0               76,0
+  Santiago                         4 535              2,5                8,2           69,6            88,0               52,7
+
+                                                                                                                    continúa...
+308 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                   Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad     de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio        a educación      a educación    secundaria y
+                                                                                     regular      general básica       más
+
+    San Juan                        11 695              2,3                 9,0           71,3            88,8              62,1
+    Piedades Norte                   8 147              1,7                 8,5           70,0            86,3              56,8
+    Piedades Sur                     3 738              3,3                 7,2           72,1            86,1              40,3
+    San Rafael                       9 321              1,5                 9,2           71,2            88,3              61,7
+    San Isidro                       4 478              2,3                 8,6           70,1            88,3              58,4
+    Ángeles                          8 500              3,1                 7,2           63,4            83,3              43,0
+    Alfaro                           7 137              1,4                 9,6           73,0            88,3              66,6
+    Volio                            2 270              3,0                 7,5           61,1            85,8              45,7
+    Concepción                       2 348              3,3                 7,0           67,1            85,7              36,7
+    Zapotal                            391              4,7                 6,1           57,9            73,2              24,7
+    Peñas Blancas                    9 289              5,5                 6,4           62,6            85,5              34,6
+
+
+    Grecia                          76 898              2,5                 8,3           68,1            86,8              53,3
+    Grecia                          14 859              1,4                 9,9           68,8            85,4              69,2
+    San Isidro                       5 949              1,5                 8,8           71,8            91,4              57,3
+    San José                         8 100              2,1                 8,4           72,4            88,6              53,8
+    San Roque                       11 132              1,9                 8,8           73,5            88,5              58,6
+    Tacares                          7 963              3,6                 7,5           65,1            85,9              43,7
+    Río Cuarto                      11 074              5,4                 6,3           58,9            82,7              33,8
+    Puente de Piedra                10 556              2,4                 7,8           70,2            88,6              48,5
+    Bolívar                          7 265              2,1                 8,0           66,7            86,2              50,0
+
+
+    San Mateo                        6 136              2,3                 7,9           64,2            81,7              48,6
+    San Mateo                        2 692              1,8                 8,5           61,0            75,7              54,7
+    Desmonte                         1 047              2,0                 7,4           69,0            88,5              41,1
+    Jesús María                      2 397              2,9                 7,4           65,6            85,0              45,0
+
+
+    Atenas                          25 460              2,0                 8,8           69,5            87,3              56,7
+    Atenas                           7 546              1,2                10,3           74,4            87,7              71,1
+    Jesús                            3 631              2,0                 8,9           70,5            88,4              56,8
+    Mercedes                         3 127              2,7                 8,4           67,5            89,3              54,6
+    San Isidro                       2 813              3,2                 6,9           62,1            83,1              36,0
+    Concepción                       3 473              1,2                 8,9           70,3            88,8              60,3
+    San José                         1 940              1,6                 7,9           66,0            84,4              45,0
+    Santa Eulalia                    2 082              3,9                 7,5           69,3            87,4              45,3
+    Escobal                            848              4,0                 7,0           61,4            88,5              36,8
+
+
+                                                                                                                      continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        309
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  Naranjo                         42 713              2,6                8,1           69,9            88,7               52,7
+  Naranjo                         15 936              2,5                8,6           70,1            88,7               60,0
+  San Miguel                       4 657              3,0                7,5           66,0            84,8               47,7
+  San José                         3 162              2,4                7,8           73,5            89,6               47,3
+  Cirrí Sur                        4 552              3,3                7,4           69,0            90,6               47,3
+  San Jerónimo                     3 264              2,7                7,5           71,1            87,9               46,0
+  San Juan                         3 114              2,2                8,5           70,0            87,8               53,6
+  El Rosario                       3 757              3,5                6,9           65,5            89,4               38,6
+  Palmitos                         4 271              1,7                8,3           75,0            91,3               55,6
+
+
+  Palmares                        34 716              1,8                8,9           73,5            88,7               58,5
+  Palmares                         3 599              1,6                9,9           77,2            92,3               66,5
+  Zaragoza                         8 219              1,9                8,9           77,3            89,5               59,2
+  Buenos Aires                     7 493              1,4                9,6           72,5            86,4               65,1
+  Santiago                         2 737              2,0                7,8           72,6            87,8               48,0
+  Candelaria                       1 961              2,6                7,1           67,7            90,7               41,5
+  Esquipulas                       6 588              2,0                8,0           69,0            87,5               52,5
+  La Granja                        4 119              1,5                9,3           76,7            90,4               61,3
+
+
+  Poás                            29 199              2,6                7,8           65,1            87,2               47,3
+  San Pedro                        7 554              2,2                8,6           69,3            89,4               54,7
+  San Juan                         4 638              3,2                7,8           64,2            85,5               46,0
+  San Rafael                       5 436              3,0                7,5           64,7            87,7               41,4
+  Carrillos                        9 228              2,1                7,8           64,2            87,5               49,1
+  Sabana Redonda                   2 343              3,6                6,3           58,7            82,5               30,4
+
+
+  Orotina                         20 341              3,3                8,1           67,5            85,4               53,9
+  Orotina                          9 664              2,2                9,0           71,2            86,5               61,9
+  El Mastate                       1 821              3,0                8,3           70,9            91,0               55,7
+  Hacienda Vieja                   1 022              4,6                8,1           69,9            91,4               53,5
+  Coyolar                          5 912              4,7                7,0           63,5            83,0               44,7
+  La Ceiba                         1 922              4,1                6,8           59,2            80,2               37,7
+
+
+  San Carlos                     163 745              4,3                7,4           64,0            85,4               46,4
+  Quesada                         42 060              2,3                8,9           69,5            87,6               60,9
+  Florencia                       15 149              4,0                7,4           64,0            84,4               46,4
+  Buenavista                         325              2,7                5,9           68,6            90,2               25,7
+                                                                                                                    continúa...
+310 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                  Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad    de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio       a educación      a educación    secundaria y
+                                                                                    regular      general básica       más
+
+    Aguas Zarcas                    20 239              4,2                7,2           64,7            87,6              44,2
+    Venecia                          9 638              3,4                7,2           69,0            89,0              42,6
+    Pital                           17 318              6,3                6,4           55,1            81,1              37,3
+    La Fortuna                      15 383              3,1                7,5           63,7            87,5              49,1
+    La Tigra                         6 374              4,8                6,5           63,0            83,8              34,7
+    La Palmera                       6 321              3,5                7,4           63,0            85,3              44,5
+    Venado                           1 754              6,9                6,2           54,0            73,6              33,9
+    Cutris                          10 334              8,4                5,8           58,6            82,2              30,7
+    Monterrey                        3 455              6,0                6,4           62,1            80,6              35,5
+    Pocosol                         15 395              7,3                6,4           63,2            83,9              37,1
+
+
+    Zarcero                         12 205              2,3                7,9           64,9            86,5              48,7
+    Zarcero                          4 004              1,8                9,1           72,0            89,8              62,0
+    Laguna                           1 674              1,9                7,9           59,9            75,2              48,6
+    Tapesco                          1 305              1,4                7,8           67,6            90,8              47,2
+    Guadalupe                        1 148              4,2                6,7           60,4            81,8              38,3
+    Palmira                          1 334              4,3                6,5           56,6            86,4              30,7
+    Zapote                             739              2,8                6,8           63,3            87,5              41,3
+    Brisas                           2 001              1,7                7,3           63,2            89,3              42,1
+
+
+    Valverde Vega                   18 085              3,0                7,8           66,9            84,8              49,0
+    Sarchí Norte                     7 140              2,5                8,2           68,7            84,1              52,8
+    Sarchí Sur                       5 143              2,6                7,8           65,5            87,2              48,5
+    Toro Amarillo                      273              9,3                5,7           39,8            57,8              30,1
+    San Pedro                        3 408              3,1                7,3           62,4            80,6              42,8
+    Rodríguez                        2 121              4,4                7,8           74,8            90,6              49,6
+
+
+    Upala                           43 953              5,9                6,6           68,0            85,8              38,7
+    Upala                           16 139              4,8                7,4           68,5            85,7              47,0
+    Aguas Claras                     4 939              5,4                6,4           67,0            85,0              35,5
+    San José o Pizote                7 352              5,9                6,1           66,2            83,3              31,8
+    Bijagua                          4 538              5,6                6,8           69,0            85,7              37,5
+    Delicias                         4 483              7,0                6,0           70,8            88,8              35,3
+    Dos Ríos                         3 194              6,8                5,9           68,7            88,4              30,2
+    Yolillal                         3 308              9,4                5,8           65,7            85,9              32,0
+
+
+
+                                                                                                                     continúa...
+                                                                 Características Sociales y Demográficas INEC        CENSO 2011        311
+
+
+
+Continuación Cuadro 48...
+                                                                                     Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                              Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                                 Población total
+ distrito                                        analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                       regular      general básica        más
+
+  Los Chiles                           23 735              8,9                6,1           59,1            78,9               35,3
+  Los Chiles                           13 262             10,2                6,2           60,4            79,0               38,5
+  Caño Negro                            1 808              6,0                6,1           66,9            84,2               33,4
+  El Amparo                             5 992              8,4                5,8           55,5            77,7               32,3
+  San Jorge                             2 673              5,6                5,9           55,7            77,8               28,3
+
+
+  Guatuso                              15 508              5,8                6,5           59,9            80,4               36,4
+  San Rafael                            7 941              5,5                6,8           60,9            78,3               39,8
+  Buenavista                            1 573              5,5                6,5           55,9            82,9               32,6
+  Cote                                    867              7,2                5,7           59,3            75,1               27,2
+  Katira                                5 127              6,0                6,2           59,5            83,9               34,1
+
+
+  Cartago                             490 903             2,1                8,6           69,1             87,0              54,9
+
+  Cartago                             147 898              1,6                9,1           70,3            87,3               59,7
+  Oriental                             12 228              0,7               11,4           81,3            89,3               78,9
+  Occidental                            9 901              0,9               11,4           74,3            87,4               79,2
+  Carmen                               17 425              1,6                9,4           71,0            89,1               64,8
+  San Nicolás                          25 948              1,9                8,5           68,4            87,9               56,9
+  Aguacaliente o San Francisco         31 789              1,6                8,8           69,9            87,8               59,5
+  Guadalupe o Arenilla                 14 618              1,9                9,4           71,6            87,0               63,5
+  Corralillo                           10 647              1,9                7,5           66,9            85,5               39,2
+  Tierra Blanca                         5 103              1,5                7,2           65,0            81,6               33,7
+  Dulce Nombre                         10 548              1,1                9,6           75,8            90,6               65,1
+  Llano Grande                          4 342              3,2                6,5           54,3            78,3               26,6
+  Quebradilla                           5 349              2,4                7,3           66,1            84,8               38,4
+
+
+  Paraíso                              57 743              2,0                7,9           66,6            86,1               46,6
+  Paraíso                              20 601              1,5                8,9           70,8            86,2               57,6
+  Santiago                              5 534              3,7                6,6           59,6            81,1               28,8
+  Orosi                                 9 084              2,2                7,2           64,9            86,4               36,0
+  Cachí                                 5 438              1,9                7,1           65,8            86,4               35,5
+  Llanos de Santa Lucía                17 086              2,1                7,7           65,8            87,4               47,7
+
+
+  La Unión                             99 399              1,4                9,5           69,6            87,6               64,9
+  Tres Ríos                             9 331              0,9               10,4           69,8            87,0               74,3
+  San Diego                            21 620              1,2                9,2           69,3            88,6               65,5
+
+                                                                                                                         continúa...
+312 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                   Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad     de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio        a educación      a educación    secundaria y
+                                                                                     regular      general básica       más
+
+    San Juan                        13 729              0,4                12,3           79,9            89,0              86,8
+    San Rafael                      14 247              1,5                 9,4           70,8            86,7              63,0
+    Concepción                      16 515              1,6                 8,9           68,5            88,8              59,8
+    Dulce Nombre                     7 893              2,1                 7,9           68,4            88,7              51,7
+    San Ramón                        4 054              0,8                10,9           71,9            88,5              72,5
+    Río Azul                        12 010              2,5                 7,1           60,6            83,8              43,5
+
+
+    Jiménez                         14 669              3,4                 7,2           68,4            86,5              39,6
+    Juan Viñas                       6 552              2,7                 7,6           65,9            87,1              42,3
+    Tucurrique                       4 872              4,0                 6,9           71,8            86,7              36,6
+    Pejibaye                         3 245              4,1                 7,0           68,0            85,1              38,2
+
+
+    Turrialba                       69 616              3,9                 7,8           69,7            86,5              48,0
+    Turrialba                       26 680              2,2                 9,2           74,8            89,3              62,0
+    La Suiza                         7 590              3,8                 7,4           68,5            86,9              42,7
+    Peralta                            511              5,3                 5,6           67,2            91,3              24,0
+    Santa Cruz                       3 208              3,5                 7,0           62,0            81,0              34,5
+    Santa Teresita                   4 744              4,9                 6,3           66,1            87,4              30,9
+    Pavones                          4 331              4,1                 6,9           63,8            87,2              37,2
+    Tuis                             2 837              3,5                 7,0           72,0            89,4              39,1
+    Tayutic                          2 374              3,8                 6,8           67,8            85,7              35,3
+    Santa Rosa                       5 232              2,9                 8,1           73,6            90,1              51,9
+    Tres Equis                       1 808              5,0                 6,1           59,1            83,9              27,6
+    La Isabel                        6 116              3,7                 7,3           72,2            89,9              46,7
+    Chirripó                         4 185             19,0                 4,2           59,3            73,4              20,2
+
+
+    Alvarado                        14 312              2,8                 7,0           61,1            83,8              34,7
+    Pacayas                          5 628              2,6                 7,0           58,9            81,9              32,5
+    Cervantes                        6 230              3,2                 7,0           64,5            85,6              37,2
+    Capellades                       2 454              2,3                 7,0           57,7            83,4              33,4
+
+
+    Oreamuno                        45 473              2,3                 8,4           69,0            86,4              51,7
+    San Rafael                      27 248              1,7                 9,3           72,0            86,7              62,3
+    Cot                              9 630              3,2                 7,0           68,5            88,5              38,3
+    Potrero Cerrado                  2 281              3,4                 6,9           58,9            81,9              29,7
+    Cipreses                         3 700              2,7                 7,1           66,3            86,4              37,8
+    Santa Rosa                       2 614              4,2                 6,3           54,8            78,1              24,5
+                                                                                                                      continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        313
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  El Guarco                       41 793              1,6                8,5           69,3            88,4               52,6
+  El Tejar                        24 984              1,2                9,5           73,6            90,1               64,1
+  San Isidro                       9 828              2,5                6,9           62,3            84,8               33,5
+  Tobosi                           6 569              1,8                7,2           66,5            89,0               38,8
+  Patio de Agua                      412              0,6                6,0           46,7            67,5               12,1
+
+
+  Heredia                        433 677             1,6                9,7           70,1             86,6              66,9
+
+  Heredia                        123 616              0,9               10,5           71,7            86,8               74,5
+  Heredia                         18 697              0,7               11,5           73,4            83,4               80,9
+  Mercedes                        25 744              0,6               11,3           77,7            89,4               80,3
+  San Francisco                   49 209              1,3                9,9           69,6            86,4               70,5
+  Ulloa                           29 266              0,8               10,1           70,4            87,4               72,1
+  Varablanca                         700              3,7                6,5           46,7            68,1               29,6
+
+
+  Barva                           40 660              1,1               10,1           69,9            85,0               70,1
+  Barva                            4 997              1,1               11,0           70,2            84,7               79,1
+  San Pedro                        9 932              1,4                9,0           65,1            81,8               61,7
+  San Pablo                        8 319              1,2                9,7           69,2            84,4               69,1
+  San Roque                        4 622              0,3               11,3           77,1            91,0               79,7
+  Santa Lucía                      7 413              0,7               11,5           74,8            86,3               78,2
+  San José de la Montaña           5 377              1,8                8,9           68,1            85,7               58,5
+
+
+  Santo Domingo                   40 072              0,9               10,4           72,3            87,1               71,0
+  Santo Domingo                    4 730              0,7               11,4           77,9            85,7               80,1
+  San Vicente                      6 427              0,5               11,9           81,5            88,8               82,2
+  San Miguel                       6 363              1,0                9,8           69,0            87,3               68,0
+  Paracito                         2 231              1,1                9,1           65,7            81,5               62,0
+  Santo Tomás                      6 267              0,9               11,1           73,6            87,4               76,0
+  Santa Rosa                       7 269              0,9                9,5           68,3            88,4               62,9
+  Tures                            3 452              1,5                9,2           73,6            89,5               63,3
+  Pará                             3 333              1,2                9,4           65,6            82,7               63,1
+
+
+  Santa Bárbara                   36 243              1,5                9,0           69,3            87,7               60,3
+  Santa Bárbara                    5 944              0,8                9,7           73,9            89,6               67,4
+  San Pedro                        5 582              1,4                8,7           69,3            88,2               57,2
+  San Juan                         7 662              1,0                9,5           69,4            88,6               64,9
+                                                                                                                    continúa...
+314 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                   Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad     de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio        a educación      a educación    secundaria y
+                                                                                     regular      general básica       más
+
+    Jesús                            9 603              2,0                 8,6           66,8            85,9              57,2
+    Santo Domingo                    2 879              2,3                 8,3           69,7            87,5              54,0
+    Purabá                           4 573              1,9                 8,7           69,1            87,7              56,5
+
+
+    San Rafael                      45 965              1,3                 9,8           71,5            87,4              68,3
+    San Rafael                       9 668              1,0                10,0           72,9            90,8              71,6
+    San Josecito                    11 579              1,5                 9,4           70,3            87,2              66,7
+    Santiago                         8 409              1,0                10,3           69,7            84,9              72,7
+    Ángeles                         10 232              1,6                 9,8           72,4            86,9              65,7
+    Concepción                       6 077              1,2                 9,7           72,7            87,4              64,3
+
+
+    San Isidro                      20 633              1,3                 9,7           71,5            88,3              65,6
+    San Isidro                       6 113              1,3                 9,9           71,1            90,2              69,4
+    San José                         7 447              1,5                10,0           73,9            88,4              65,5
+    Concepción                       2 635              1,3                 9,4           71,8            89,3              60,6
+    San Francisco                    4 438              1,1                 9,2           68,2            85,2              63,5
+
+
+    Belén                           21 633              1,0                10,3           68,5            85,7              70,6
+    San Antonio                      9 942              0,9                 9,9           65,6            84,3              69,1
+    La Ribera                        6 040              1,5                 9,6           70,4            90,8              63,7
+    La Asunción                      5 651              0,5                11,7           72,0            82,5              80,2
+
+
+    Flores                          20 037              0,9                10,5           71,4            87,7              72,2
+    San Joaquín                      7 173              0,9                11,0           73,7            88,6              75,2
+    Barrantes                        4 091              0,6                11,6           80,5            91,5              78,8
+    Llorente                         8 773              1,1                 9,6           66,2            85,4              66,6
+
+
+    San Pablo                       27 671              0,9                11,0           72,7            87,5              76,6
+    San Pablo                       19 412              1,0                11,0           71,4            87,1              75,6
+    Rincón de Sabanilla              8 259              0,8                11,1           75,9            88,5              78,9
+
+
+    Sarapiquí                       57 147              5,6                 6,4           64,7            85,0              37,5
+    Puerto Viejo                    20 184              6,2                 6,2           64,0            85,0              35,8
+    La Virgen                       10 521              6,1                 6,1           58,5            81,5              30,9
+    Las Horquetas                   24 331              4,3                 6,9           69,2            87,6              43,2
+    Llanuras del Gaspar              1 160             13,6                 4,6           47,3            66,2              21,5
+    Cureña                             951             12,4                 4,5           59,0            81,1              19,6
+                                                                                                                      continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        315
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  Guanacaste                     326 953             3,0                8,2           66,5             83,9              54,9
+
+  Liberia                         62 987              2,3                8,9           67,6            85,0               62,6
+  Liberia                         53 382              2,2                9,1           68,2            85,0               65,2
+  Cañas Dulces                     3 230              3,7                7,7           65,7            86,7               48,9
+  Mayorga                          1 599              3,7                7,1           64,0            87,0               44,5
+  Nacascolo                        2 249              1,9                7,9           64,1            83,4               48,8
+  Curubandé                        2 527              3,3                7,6           61,5            82,9               48,4
+
+
+  Nicoya                          50 825              2,7                8,4           68,8            85,4               55,4
+  Nicoya                          24 833              2,6                9,1           69,7            84,8               62,9
+  Mansión                          5 717              3,1                8,3           74,6            90,8               54,7
+  San Antonio                      6 642              2,7                7,6           71,1            87,8               49,9
+  Quebrada Honda                   2 523              2,1                8,1           72,0            84,4               51,8
+  Sámara                           3 512              2,9                7,6           59,9            82,4               46,3
+  Nosara                           4 912              2,1                7,3           63,3            85,9               41,4
+  Belén de Nosarita                2 686              4,7                7,1           62,4            78,3               39,3
+
+
+  Santa Cruz                      55 104              1,9                8,9           62,8            79,6               60,6
+  Santa Cruz                      21 544              2,0                9,6           65,3            78,7               67,8
+  Bolsón                           1 627              1,8                7,3           64,2            85,7               41,8
+  Veintisiete de Abril             7 048              2,4                7,8           60,6            78,2               49,0
+  Tempate                          5 630              1,7                8,5           58,8            81,4               55,7
+  Cartagena                        3 824              1,4                9,1           69,3            85,3               63,5
+  Cuajiniquil                      1 789              3,1                6,9           53,9            71,9               35,4
+  Diriá                            3 905              1,9                9,1           63,9            78,1               62,4
+  Cabo Velas                       3 362              1,4                8,8           58,8            78,7               59,6
+  Tamarindo                        6 375              1,2                9,0           60,1            82,0               63,0
+
+
+  Bagaces                         19 536              3,8                7,4           66,2            83,4               47,3
+  Bagaces                         12 367              4,2                7,3           65,7            85,0               46,3
+  La Fortuna                       2 756              3,4                7,9           69,3            81,4               50,9
+  Mogote                           3 398              2,9                7,7           67,3            83,2               51,0
+  Río Naranjo                      1 015              3,3                6,7           61,2            68,9               36,9
+
+
+  Carrillo                        37 122              2,2                8,4           63,8            83,6               56,7
+  Filadelfia                       7 953              2,2                8,5           67,3            86,0               57,8
+                                                                                                                    continúa...
+316 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                  Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad    de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio       a educación      a educación    secundaria y
+                                                                                    regular      general básica       más
+
+    Palmira                          5 416              2,7                8,0           65,9            86,7              53,2
+    Sardinal                        14 912              1,8                8,6           61,7            81,6              60,2
+    Belén                            8 841              2,6                8,0           63,0            83,2              52,1
+
+
+    Cañas                           26 201              3,6                7,9           67,2            85,2              52,8
+    Cañas                           20 816              3,3                8,2           68,2            85,6              57,0
+    Palmira                            988              5,2                5,8           58,9            78,4              25,9
+    San Miguel                       1 644              3,9                6,8           66,7            85,2              39,2
+    Bebedero                         2 084              4,5                6,7           61,0            83,9              39,9
+    Porozal                            669              4,9                6,5           65,3            87,1              37,3
+
+
+    Abangares                       18 039              4,5                7,2           64,1            84,3              45,5
+    Las Juntas                       9 482              4,5                7,6           67,2            86,1              50,2
+    Sierra                           2 351              4,6                6,7           52,5            72,0              34,6
+    San Juan                         1 585              4,7                6,1           64,4            91,1              33,1
+    Colorado                         4 621              4,2                7,1           64,0            84,9              45,7
+
+
+    Tilarán                         19 640              3,6                7,7           71,8            88,3              49,5
+    Tilarán                          8 677              2,5                8,7           75,8            91,3              61,6
+    Quebrada Grande                  2 700              4,8                6,4           67,3            88,1              34,1
+    Tronadora                        1 795              4,1                7,2           72,3            86,2              44,5
+    Santa Rosa                       1 945              4,2                7,5           65,0            83,7              45,1
+    Líbano                             865              5,9                5,8           67,4            84,7              27,0
+    Tierras Morenas                  1 358              4,1                6,5           69,2            84,1              33,5
+    Arenal                           2 300              4,6                7,7           70,4            86,0              48,1
+
+
+    Nandayure                       11 121              3,8                7,3           70,0            84,7              43,2
+    Carmona                          2 486              4,0                8,5           75,4            88,7              57,0
+    Santa Rita                       1 446              4,6                7,2           75,4            89,3              43,1
+    Zapotal                          1 215              2,8                6,9           64,9            75,1              37,1
+    San Pablo                        2 207              1,9                7,2           69,1            83,2              42,8
+    Porvenir                           741              4,6                6,8           77,9            90,8              36,1
+    Bejuco                           3 026              4,8                6,7           63,7            82,6              36,1
+
+
+    La Cruz                         19 181              6,2                6,8           64,2            82,6              42,1
+    La Cruz                          9 195              4,7                7,8           68,2            83,2              53,1
+    Santa Cecilia                    6 258              8,2                5,8           60,2            80,1              31,3
+                                                                                                                     continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        317
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  La Garita                        1 688              9,9                5,6           61,6            83,8               28,9
+  Santa Elena                      2 040              4,4                6,3           62,5            87,5               34,2
+
+
+  Hojancha                         7 197              3,5                7,7           73,5            83,6               45,4
+  Hojancha                         4 245              2,9                8,2           75,0            84,3               50,1
+  Monte Romo                         671              2,7                6,7           78,3            87,6               35,1
+  Puerto Carrillo                  1 574              4,8                7,2           68,4            78,9               40,9
+  Huacas                             707              4,7                6,7           71,9            86,6               37,2
+
+
+  Puntarenas                     410 929             3,8                7,5           66,1             84,8              48,4
+
+  Puntarenas                     115 019              2,9                7,9           67,1            85,6               53,1
+  Puntarenas                       8 335              1,4               10,1           72,7            88,6               74,2
+  Pitahaya                         2 211              5,4                5,8           54,9            79,3               28,4
+  Chomes                           5 522              4,6                6,7           60,0            83,6               40,4
+  Lepanto                          9 502              4,2                7,2           71,4            86,8               40,0
+  Paquera                          6 686              4,4                7,2           68,0            84,9               43,3
+  Manzanillo                       2 811              3,6                6,2           62,8            88,3               34,4
+  Guacimal                           923              5,3                6,1           65,8            82,6               31,7
+  Barranca                        30 650              2,2                8,1           67,3            85,8               57,5
+  Monte Verde                      4 155              1,7                8,3           68,5            86,8               55,0
+  Cóbano                           7 494              3,4                7,7           59,7            82,7               47,4
+  Chacarita                       17 434              3,1                7,6           67,1            85,7               53,2
+  Chira                            1 576              2,4                6,6           70,2            83,4               37,6
+  Acapulco                         1 296              5,1                6,9           59,1            83,8               38,5
+  El Roble                        15 759              2,4                8,8           69,7            86,6               62,6
+  Arancibia                          665              5,4                6,1           71,3            80,9               25,9
+
+
+  Esparza                         28 644              2,4                8,6           68,9            86,2               59,8
+  Espíritu Santo                  15 686              2,0                8,9           69,7            86,7               64,4
+  San Juan Grande                  6 171              3,6                7,4           63,9            83,9               47,7
+  Macacona                         4 742              1,9                9,2           73,0            87,4               65,8
+  San Rafael                       1 294              2,7                8,1           72,3            92,0               52,5
+  San Jerónimo                       751              4,4                6,7           62,2            79,5               35,4
+
+
+  Buenos Aires                    45 244              4,7                6,6           64,2            82,0               35,7
+  Buenos Aires                    21 063              4,1                7,3           66,6            84,0               45,4
+                                                                                                                    continúa...
+318 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                  Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad    de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio       a educación      a educación    secundaria y
+                                                                                    regular      general básica       más
+
+    Volcán                           3 815              4,9                6,2           59,1            80,4              30,4
+    Potrero Grande                   5 956              5,8                5,8           67,2            82,9              28,5
+    Boruca                           3 074              4,3                6,6           68,5            84,1              36,6
+    Pilas                            1 659              6,6                5,3           59,4            80,8              22,2
+    Colinas                          1 371              5,1                5,5           53,5            75,2              20,0
+    Chánguena                        2 631              4,8                5,2           55,0            75,0              14,3
+    Biolley                          2 455              4,7                6,0           58,9            74,3              29,2
+    Brunka                           3 220              6,2                5,8           63,4            83,4              26,3
+
+
+    Montes de Oro                   12 950              3,6                8,1           65,5            84,4              53,5
+    Miramar                          8 298              3,4                8,6           66,0            84,7              58,7
+    La Unión                         1 249              5,0                6,6           66,0            80,3              34,4
+    San Isidro                       3 403              3,6                7,5           64,3            85,0              47,6
+
+
+    Osa                             29 433              4,7                7,1           63,7            83,3              44,6
+    Puerto Cortés                    7 969              4,0                7,8           68,8            86,4              52,8
+    Palmar                           9 815              4,7                7,4           67,2            84,7              48,8
+    Sierpe                           4 205              5,8                6,0           58,3            79,3              30,5
+    Bahía Ballena                    3 306              3,3                7,4           54,6            83,0              43,8
+    Piedras Blancas                  4 138              6,4                6,2           58,9            78,3              34,0
+
+
+    Aguirre                         26 861              3,5                7,6           61,7            85,2              50,4
+    Quepos                          19 858              3,1                7,9           61,4            85,6              53,7
+    Savegre                          3 326              4,1                6,8           60,7            84,1              37,0
+    Naranjito                        3 677              5,0                7,1           64,7            84,5              44,7
+
+
+    Golfito                         39 150              4,0                7,4           66,8            84,5              48,0
+    Golfito                         11 284              3,0                8,1           68,9            83,8              56,7
+    Puerto Jiménez                   8 789              4,5                6,9           62,0            82,4              41,7
+    Guaycará                        12 918              3,9                7,7           68,8            86,3              50,7
+    Pavón                            6 159              5,5                6,4           65,8            84,9              34,2
+
+
+    Coto Brus                       38 453              5,3                6,9           69,6            85,2              39,8
+    San Vito                        14 834              4,4                7,5           72,5            87,2              45,2
+    Sabalito                        10 984              5,9                6,6           67,6            85,3              37,4
+    Aguabuena                        6 286              4,1                7,2           70,1            83,7              42,3
+
+
+                                                                                                                     continúa...
+                                                            Características Sociales y Demográficas INEC        CENSO 2011        319
+
+
+
+Continuación Cuadro 48...
+                                                                                Porcentaje       Porcentaje      Porcentaje de
+ Provincia, cantón y                         Porcentaje de       Escolaridad   de asistencia    de asistencia    población con
+                            Población total
+ distrito                                   analfabetismo1/       promedio      a educación      a educación     secundaria y
+                                                                                  regular      general básica        más
+
+  Limoncito                        3 591              8,9                6,0           69,3            84,9               31,4
+  Pittier                          2 758              6,3                5,6           61,8            79,1               23,9
+
+
+  Parrita                         16 115              5,4                7,0           63,2            83,6               41,7
+  Parrita                         16 115              5,4                7,0           63,2            83,6               41,7
+
+
+  Corredores                      41 831              4,0                7,6           67,6            86,2               49,7
+  Corredor                        17 250              3,3                8,1           67,8            84,9               55,2
+  La Cuesta                        3 906              3,2                8,0           71,0            89,8               53,3
+  Canoas                          11 527              3,9                7,6           67,7            86,0               51,6
+  Laurel                           9 148              5,8                6,3           65,9            87,0               35,2
+
+
+  Garabito                        17 229              3,3                7,7           60,6            86,3               50,5
+  Jacó                            11 685              2,9                8,0           59,8            85,2               54,2
+  Tárcoles                         5 544              3,9                7,1           62,3            88,7               42,8
+
+
+  Limón                          386 862             3,7                7,3           64,2             83,5              46,4
+
+  Limón                           94 415              3,0                8,3           67,3            83,8               58,4
+  Limón                           61 072              1,3                9,2           69,6            85,5               68,4
+  Valle La Estrella               17 908              9,0                5,7           63,9            80,7               29,7
+  Río Blanco                       8 307              3,1                7,5           64,1            83,2               50,0
+  Matama                           7 128              3,9                7,1           61,9            80,2               45,0
+
+
+  Pococí                         125 962              3,5                7,3           63,8            84,3               44,4
+  Guápiles                        36 469              1,9                8,8           69,9            87,3               60,5
+  Jiménez                         10 501              2,6                7,8           69,9            87,9               50,3
+  Rita                            24 041              4,8                6,3           58,7            81,1               33,5
+  Roxana                          16 790              4,3                6,3           59,9            82,4               33,9
+  Cariari                         34 176              4,0                6,7           62,5            83,9               38,7
+  Colorado                         3 985              4,7                6,2           53,9            80,0               34,3
+
+
+  Siquirres                       56 786              3,5                7,0           63,1            83,6               41,8
+  Siquirres                       31 637              3,4                7,2           64,2            84,0               44,5
+  Pacuarito                        8 756              4,4                6,3           55,7            78,7               34,6
+  Florida                          2 184              2,8                6,7           66,0            84,2               36,0
+  Germania                         2 471              3,5                6,8           61,7            82,1               41,3
+                                                                                                                    continúa...
+320 Características Sociales y Demográficas INEC              CENSO 2011
+
+
+
+
+  Continuación Cuadro 48...
+                                                                                  Porcentaje       Porcentaje     Porcentaje de
+   Provincia, cantón y                         Porcentaje de      Escolaridad    de asistencia    de asistencia   población con
+                              Población total
+   distrito                                   analfabetismo1/      promedio       a educación      a educación    secundaria y
+                                                                                    regular      general básica       más
+
+    El Cairo                         6 082              4,1                6,7           63,7            85,7             38,3
+    Alegría                          5 656              2,6                7,3           67,5            86,9             44,1
+
+
+    Talamanca                       30 712              6,9                6,8           63,4            82,3             42,6
+    Bratsi                           7 318              6,7                6,8           64,9            85,6             42,7
+    Sixaola                          8 861              6,3                6,4           65,4            84,1             39,5
+    Cahuita                          8 293              3,2                8,0           61,7            82,6             53,0
+    Telire                           6 240             12,9                5,8           60,9            76,2             31,8
+
+
+    Matina                          37 721              4,0                6,7           61,5            81,5             40,3
+    Matina                           9 142              4,8                6,3           56,5            75,8             38,0
+    Batán                           16 532              3,7                7,1           67,2            85,4             44,2
+    Carrandi                        12 047              3,8                6,4           57,6            80,4             36,7
+
+
+    Guácimo                         41 266              3,5                6,8           63,2            83,4             40,2
+    Guácimo                         18 326              3,1                7,3           66,6            87,1             45,6
+    Mercedes                         1 707              3,2                8,7           75,6            84,0             58,4
+    Pocora                           6 432              3,7                6,6           65,1            86,4             39,1
+    Río Jiménez                      8 742              4,0                6,2           57,2            79,0             32,3
+    Duacarí                          6 059              3,9                6,0           56,1            76,4             30,2
+Mapas Temáticos
+Cartografía censal
+Mapa 10
+Costa Rica: Porcentaje de población asegurada por la CCSS por cantón
+
+
+
+
+  Porcentaje de población
+  asegurada                                                                                NICARAGUA
+     De 90 y más
+     De 88 a menos de 90
+     De 86 a menos de 88
+     De 84 a menos de 86
+     De 82 a menos de 84
+     Menos de 82
+
+
+
+
+                                                                                                                             MAR CARIBE
+
+
+
+
+                                                                                                                                          P
+                                                                                OCÉANO                                                    A
+                                                                                PACÍFICO                                                  N
+                                                                                                                                          A
+                                                                                                                                          M
+                                                                                                                                          Á
+                                                                                                                                              Características Sociales y Demográficas INEC
+
+
+
+
+                                                                                N
+
+                                                                            O         E
+                                                    0         10       20                              0      25        50
+                                                          kilómetros
+                                                                                S
+                                                                                                                                              CENSO 2011
+
+
+
+
+                                                                                                           kilómetros
+                                                                                                                                              323
+Mapa 11
+Costa Rica: Porcentaje de población con al menos una discapacidad por cantón
+
+
+
+  Porcentaje de población con
+  al menos una discapacidad                                                               NICARAGUA
+     De 12 y más
+     De 11 a menos 12
+     De 10 a menos 11
+     De 9 a menos de 10
+     Menos de 9
+
+
+
+
+                                                                                                                            MAR CARIBE
+                                                                                                                                             324 Características Sociales y Demográficas INEC
+                                                                                                                                                       CENSO 2011
+
+
+
+
+                                                                                                                                         P
+                                                                               OCÉANO                                                    A
+                                                                               PACÍFICO                                                  N
+                                                                                                                                         A
+                                                                                                                                         M
+                                                                                                                                         Á
+
+
+
+
+                                                                               N
+
+                                                                           O         E
+                                                   0         10       20                              0      25        50
+                                                         kilómetros
+                                                                               S
+                                                                                                          kilómetros
+Mapa 12
+Porcentaje de población de 5 años y más que usó computadora en los últimos 3 meses por cantón
+
+
+
+
+                                                                                         NICARAGUA
+
+  Porcentaje de población de 5 años
+  y más que usó computadora
+     De 65 y más
+     De 55 a menos de 65
+     De 45 a menos de 55
+     De 35 a menos de 45
+     Menos de 35
+
+
+
+
+                                                                                                                           MAR CARIBE
+
+
+
+
+                                                                                                                                        P
+                                                                              OCÉANO                                                    A
+                                                                              PACÍFICO                                                  N
+                                                                                                                                        A
+                                                                                                                                        M
+                                                                                                                                        Á
+                                                                                                                                            Características Sociales y Demográficas INEC
+
+
+
+
+                                                                               N
+
+                                                                          O         E
+                                                  0         10       20                              0      25        50
+                                                        kilómetros
+                                                                               S
+                                                                                                                                            CENSO 2011
+
+
+
+
+                                                                                                         kilómetros
+                                                                                                                                            325
+Mapa 13
+Costa Rica: Porcentaje de población de 5 años y más que usó Internet en los últimos 3 meses por cantón
+
+
+
+
+                                                                                              NICARAGUA
+
+
+  Porcentaje de población de 5
+  años y más que usó Internet
+     De 55 y más
+     De 45 a menos de 55
+     De 35 a menos de 45
+     De 25 a menos de 35
+     Menos de 25
+
+
+
+                                                                                                                                MAR CARIBE
+                                                                                                                                                 326 Características Sociales y Demográficas INEC
+                                                                                                                                                           CENSO 2011
+
+
+
+
+                                                                                                                                             P
+                                                                                   OCÉANO                                                    A
+                                                                                   PACÍFICO                                                  N
+                                                                                                                                             A
+                                                                                                                                             M
+                                                                                                                                             Á
+
+
+
+
+                                                                                   N
+                                                         ´
+                                                                               O         E
+                                                   0             10       20                              0      25        50
+                                                             kilómetros
+                                                                                   S
+                                                                                                              kilómetros
+Mapa 14
+Costa Rica: Porcentaje de hogares nucleares conyugales con hijos por cantón
+
+
+
+
+                                                                                             NICARAGUA
+
+
+  Porcentaje de hogares nucleares
+  conyugales con hijos(as)
+     De 50 y más
+     De 47 a menos de 50
+     De 44 a menos de 47
+     De 41 a menos de 44
+     De 38 a menos de 41
+     Menos de 38
+
+
+                                                                                                                               MAR CARIBE
+
+
+
+
+                                                                                                                                            P
+                                                                                  OCÉANO                                                    A
+                                                                                  PACÍFICO                                                  N
+                                                                                                                                            A
+                                                                                                                                            M
+                                                                                                                                            Á
+                                                                                                                                                Características Sociales y Demográficas INEC
+
+
+
+
+                                                                                  N
+
+                                                                              O         E
+                                                    0         10       20                                0      25        50
+                                                                                                                                                CENSO 2011
+
+
+
+
+                                                          kilómetros
+                                                                                  S
+                                                                                                             kilómetros
+                                                                                                                                                327
+Mapa 15
+Costa Rica: Porcentaje de población de 5 a 24 años que asiste a la educación regular por distrito
+
+
+
+
+  Porcentaje de población que                                                                 NICARAGUA
+  asiste a educación regular
+     De 75 y más
+     De 70 a menos de 75
+     De 65 a menos de 70
+     De 60 a menos de 65
+     Menos de 60
+
+
+
+
+                                                                                                                                MAR CARIBE
+                                                                                                                                                 328 Características Sociales y Demográficas INEC
+                                                                                                                                                           CENSO 2011
+
+
+
+
+                                                                                                                                             P
+                                                                                   OCÉANO                                                    A
+                                                                                   PACÍFICO                                                  N
+                                                                                                                                             A
+                                                                                                                                             M
+                                                                                                                                             Á
+
+
+
+
+                                                                                   N
+                                                                                                          0       25       50
+                                                                              O          E                    kilómetros
+                                                0         5        10
+
+                                                      kilómetros                   S
+Mapa 16
+Costa Rica: Escolaridad promedio de la población de 15 años y más por distrito
+
+
+
+
+     Años de escolaridad
+        11 a 14 años                                                                        NICARAGUA
+        10 años
+         9 años
+         8 años
+         7 años
+        De 4 a 6 años
+
+
+
+
+                                                                                                                              MAR CARIBE
+
+
+
+
+                                                                                                                                           P
+                                                                                 OCÉANO                                                    A
+                                                                                 PACÍFICO                                                  N
+                                                                                                                                           A
+                                                                                                                                           M
+                                                                                                                                           Á
+                                                                                                                                               Características Sociales y Demográficas INEC
+
+
+
+
+                                                                                 N
+                                                                                                        0       25       50
+                                                                             O         E                    kilómetros
+                                               0         5        10
+                                                                                                                                               CENSO 2011
+
+
+
+
+                                                     kilómetros                  S
+                                                                                                                                               329
+Entrevista censal
+Anexos
+332     Características Sociales y Demográficas INEC                                                             CENSO 2011
+
+
+      Anexo 1: Boleta Censal
+
+                                                                                                          REPÚBLICA DE COSTA RICA
+                                                                                                      X CENSO NACIONAL DE POBLACIÓN Y
+                                                                                                               VI DE VIVIENDA
+                                                                                                          BLOQUE I: LOCALIZACIÓN
+                    Área de Empadronamiento                         Unidad Geoestadística Mínima            Vivienda      Hogar                                                                                                Esta marca sólo aplica
+                                                                                                                                                Si esta Boleta es CONTINUACIÓN                                                 a partir de la segunda
+                                                                                                                                                del mismo HOGAR, marque aquí:                                                  Boleta en hogares de
+                                                                                                                                                                                                                               más de 6 personas.
+
+                   Dirección
+
+                                                                                                                                   Distrito
+
+                                                                                                         INSTRUCCIONES DE LLENADO
+                                                                                                                                                                 CORRECTO                                INCORRECTO
+                                                                                                                                                                 Marque así                              No marque así
+
+                                                                                       BLOQUE II: CARACTERÍSTICAS DE LA VIVIENDA
+                  1. Observe, indague y marque el tipo de vivienda:                                                                  4. ¿Las paredes exteriores son principalmente de...
+                     INDIVIDUAL                                                                                                           ... block o ladrillo? . . . . . . . . . . . . . . . . . . . . . . . . . .                          1
+                     Casa independiente . . . . . . . . . . . . . . . . . . . . .                           1                             ... zócalo? (cemento con madera o con fibrolit). . . . . .                                         2
+                     Casa independiente en condominio. . . . . . . .                                        2                             ... madera?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       3
+                     Edificio de apartamentos . . . . . . . . . . . . . . . .                               3                             ... prefabricado o baldosas? . . . . . . . . . . . . . . . . .                                     4
+                     Edificio de apartamentos en condominio . . .                                           4                             ... Fibrolit, Ricalit? (lámina de fibrocemento). . . . . . .                                       5
+                     Vivienda tradicional indígena (palenque o rancho)                                      5                             ... fibras naturales? (bambú, caña, chonta) . . . . . . .                                          6
+                     Cuarto en cuartería . . . . . . . . . . . . . . . . . . . .                            6                             ... material de desecho? . . . . . . . . . . . . . . . . . . . . .                                 7
+                     Tugurio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  7                             Otro (zinc, adobe) . . . . . . . . . . . . . . . . . . . . . . . . . . .                           8
+                     Otro (local, casa móvil, barco, camión) . . . . . . . .                                8
+                                                                                                                                     5. ¿El techo es principalmente de...
+                     COLECTIVA
+                     Bache o barraca para trabajadores(as) . . . .                                           9                            ... zinc? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1
+                     Albergue infantil . . . . . . . . . . . . . . . . . . . . . . .                        10                            ... Fibrolit, Ricalit o asbesto? (fibrocemento) . . . . . .                                        2
+                                                                                                                    Pase a
+                     Hogar de personas adultas mayores . . . . .                                            11    BLOQUE III              ... material natural? (palma, paja, suita u otros) . . . .                                         3
+                                                                                                                   Preg. 3
+                     Cárcel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 12                            ... material de desecho? . . . . . . . . . . . . . . . . . . . . . .                               4
+                     Otra (pensión, convento) . . . . . . . . . . . . . . . . . .                           13                            Otro (teja de arcilla, etc.) . . . . . . . . . . . . . . . . . . . . . . .                         5
+
+                                                                                                                    Pase a           6. ¿Tiene la vivienda cielo raso?
+                     PERSONA SIN VIVIENDA . . . . . . . . . . . . . . . . . . .                             14    BLOQUE IV
+                                                                                                                                       Sí . . .                      1                       No . . .                     2
+
+                  2. Indague y marque si la vivienda está ocupada o desocupada                                                       7. ¿El piso es principalmente de...
+                     OCUPADA
+                                                                                                                                          ... cerámica, mosaico, terrazo? . . . . . . . . . . . . . . . .                                    1
+                     Con residentes habituales presentes . . . . .                                          1
+                                                                                                                   Regresar
+                                                                                                                                          ... cemento? (ocre, lujado o no) . . . . . . . . . . . . . . . . . .                               2
+                     Con residentes habituales ausentes . . . . . .                                         2
+                                                                                                                   después                ... madera? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      3
+                     DESOCUPADA                                                                                                           ... material natural? (chonta o rollizo) . . . . . . . . . . . .                                   4
+                     Para alquilar o vender . . . . . . . . . . . . . . . . . .                             3                             Otro material . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          5
+                     En construcción o reparación . . . . . . . . . . . .                                   4                             Piso de tierra. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        6
+                     Temporal para vacacionar . . . . . . . . . . . . . .                                           Fin de la
+                                                                                                            5      entrevista        8. ¿El estado de...
+                     Temporal para trabajadores o estudiantes .                                             6                                                                                            Malo?                Regular?           Bueno?
+                     Otra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7                             ... las paredes exteriores es. . . .                                    1                  2                 3
+                                                                                                                                          ... el techo es . . . . . . . . . . . . . . . .                         1                  2                 3
+                  3. ¿Esta vivienda...                                                                                                    ... el piso es. . . . . . . . . . . . . . . . . .                       1                  2                 3
+                  … es propia totalmente pagada? . . . . . . . .                                            1
+                                                                                                                                     9. ¿Cuántos cuartos sólo para dormir tiene esta vivienda?
+                  … es propia pagando a plazos? . . . . . . . . .                                           2
+                  … es alquilada? . . . . . . . . . . . . . . . . . .                                       3
+                  … es prestada por motivo de trabajo? . . . . .                                            4                         0           1          2           3         4           5          6           7          8       9          10
+                                                                                                                                                                                                                                                  ó más
+                  … es prestada por otro motivo? (no paga) . . .                                            5
+                  … está en precario? . . . . . . . . . . . . . . .                                         6                        10. Incluyendo los cuartos ¿cuántos aposentos
+                  Otro . . . . . . . . . . . . . . . . . . . . . . . .                                      7                        en total tiene esta vivienda? (sin contar baños o cuarto de pilas)
+
+                                                                                                                                      1            2             3           4           5           6           7              8        9          10
+                                                                                                                                                                                                                                                  ó más
+
+                                                                                                                               1
+                                                                                                   Características Sociales y Demográficas INEC                                                         CENSO 2011   333
+
+
+
+                  Continuación . . .                            BLOQUE II: CARACTERÍSTICAS DE LA VIVIENDA
+11. ¿El agua de la vivienda proviene de…                                                                 17. En esta vivienda, ¿separan del resto de la basura...
+    … un acueducto rural o comunal? (ASADAS o CAAR). . . .                                     1                                                                                          Sí       No
+    … un acueducto municipal?. . . . . . . . . . . . . . . . . . . . . . .                     2           … plástico, vidrio, aluminio? . . . . . . . . . .                                   1        2
+    … un acueducto del A y A? . . . . . . . . . . . . . . . . . . . . . . .                    3           ... papel? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1        2
+    … un acueducto de una empresa o cooperativa? . . . .                                       4           … restos de comida? (frutas, verduras,
+    … un pozo? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         5               cáscaras, huesos). . . . . . . . . . . . . . . . . . .                          1        2
+    … un río o quebrada? . . . . . . . . . . . . . . . . . . . . . . . . . . .                 6
+    Otra fuente (lluvia, camión cisterna, hidrante) . . . . . . . . .                          7         18. ¿Tienen en esta vivienda…
+                                                                                                                                                                                          Sí       No
+12. ¿El agua le llega por tubería dentro de la vivienda?                                                     ... radio o equipo de sonido? . . . . . . . . .                                   1        2
+  Sí . . .                1                       No . . .                   2
+                                                                                                             ... línea telefónica fija? . . . . . . . . . . . . . .                            1        2
+13. ¿El servicio sanitario está conectado a…                                                                 ... pantalla de TV? (plasma, LCD o LED). . .                                      1        2
+    … alcantarillado sanitario? . . . . . . . . . . . . . . . . . . . . . .                    1
+    … tanque séptico?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               2             ... televisor convencional? . . . . . . . . . . .                                 1        2
+    … tiene salida directa a acequia, zanja, río o estero?                                     3
+    ... o es de hueco, de pozo negro o letrina? . . . . . . . . . .                            4             ... televisión por cable o satélite?. . . . .                                     1        2
+    No tiene servicio sanitario . . . . . . . . . . . . . . . . . . . . . . .                  5
+                                                                                                             ... sistema de agua caliente para
+                                                                                                                 toda la casa? . . . . . . . . . . . . . . . . . . .                           1        2
+14. ¿La luz eléctrica de la vivienda proviene…
+    … del ICE o la CNFL?. . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1             …tanque de almacenamiento de agua?                                                1        2
+    … de la ESPH o la JASEC? . . . . . . . . . . . . . . . . . . . . . . . . .                 2
+    ... de una cooperativa? . . . . . . . . . . . . . . . . . . . . . . . . . .                3             ... computadora de escritorio?. . . . . . . .                                     1        2
+    ... de panel solar?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           4
+                                                                                                             ... computadora portátil? . . . . . . . . . . . .                                 1        2
+    … de otra fuente? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              5
+    No hay luz eléctrica. . . . . . . . . . . . . . . . . . . . . . . . . . . . .              6
+                                                                                                             ... Internet?. . . . . . . . . . . . . . . . . . . . . . . .                      1        2
+
+15. ¿Cocinan principalmente con...                                                                           ... carro? (no de trabajo) . . . . . . . . . . . . . .                            1        2
+    ... electricidad? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        1
+                                                                                                             ... moto? (no de trabajo) . . . . . . . . . . . . . .                             1        2
+    ... gas? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+    ... leña o carbón? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           3
+    Otro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4         19. ¿Cuántas líneas de teléfono celular tienen en esta vivienda?
+    Ninguno (no cocina) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              5
+
+
+16. ¿La basura la eliminan principalmente...                                                                     0           1            2            3          4               5 y más, anote
+
+    ... por camión recolector?. . . . . . . . . . . . . . . . . . . . . . . . .                1         20. Número de teléfono residencial o celular:
+    ... la botan en un hueco o entierran? . . . . . . . . . . . . . . .                        2
+    ... la queman? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         3
+                                                                                                                                                                      -
+    ... la botan en un lote baldío? . . . . . . . . . . . . . . . . . . . . .                  4
+    ... la botan en un río, quebrada o mar? . . . . . . . . . . . . .                          5
+    Otro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+
+                                                                                    INSTRUCCIONES DE LLENADO
+                                                                                                                                   CORRECTO                               INCORRECTO
+                                                                                                                                   Marque así                             No marque así
+
+
+
+
+                                                                                                     2
+334 Características Sociales y Demográficas INEC                                                                                                CENSO 2011
+
+
+
+
+                                                                  BLOQUE III: IDENTIFICACIÓN DEL TOTAL DE PERSONAS Y HOGARES
+             1. ¿Cuántas personas viven aquí, en esta vivienda?
+                                                                            Total de                                           CENSISTA: Indague si todas las personas tienen seis meses o más de vivir
+                                                                            personas                                           aquí, o si teniendo menos tiempo, piensan quedarse a vivir en esta vivienda.
+
+
+              2. ¿Todas las personas que viven aquí comparten un mismo presupuesto y elaboran en común los alimentos?
+
+                                                    Sí  .  .  .                        1 sólo hogar                                   Pase a 3
+
+                                                    No  .  .  .                                              Entonces, ¿cuántos hogares hay en la vivienda?                                                        CENSISTA: cuando termine la entrevista del Hogar 1, abra
+                                                                                                                                                                                                                   una nueva boleta por cada hogar adicional, transcriba el
+                                                                                                                                                                                                                   Bloque I, cambiando el número de hogar según corresponda
+                                                                                                                   2              3             4             5            6 ó más                                 (2,3, ...) y pase al Bloque III pregunta 3.
+
+
+                                                                                                                    LISTA DE PERSONAS DEL HOGAR
+             3. ¿Cuáles son los nombres y apellidos de cada persona de este HOGAR, comenzando por la jefa, jefe o persona de referencia?
+                                                                                                                                                                                                                                   Sexo
+               Persona No                                                                               Nombre y apellidos
+                                                                                                                                                                                                                     Hombre                    Mujer
+                       01                                                                                                                                                                                                                                       CENSISTA: Continúe con las demás
+                       02                                                                                                                                                                                                                                       personas, según la relación de
+                                                                                                                                                                                                                                                                parentesco con la persona 01, en
+                       03                                                                                                                                                                                                                                       el siguiente orden:
+                       04
+                                                                                                                                                                                                                                                                - esposa(o) o compañera(o),
+                       05                                                                                                                                                                                                                                       - hijas(os) solteras(os),
+                       06                                                                                                                                                                                                                                       - hijas(os) casadas(os), su
+                                                                                                                                                                                                                                                                  pareja e hijos(as),
+                       07                                                                                                                                                                                                                                       - otros familiares,
+                                                                                                                                                                                                                                                                - servicio doméstico y sus
+                       08                                                                                                                                                                                                                                         familiares,
+                       09                                                                                                                                                                                                                                       - otros no familiares.
+
+                       10
+                       11
+                       12
+
+               CENSISTA: Si en este HOGAR hay más de 12 personas abra una nueva boleta, transcriba el BLOQUE I, marque el óvalo que indica que es
+               continuación del mismo hogar y continúe con el llenado de la lista.
+
+                                                                                                 5. En resumen, ¿Cuántas personas componen                                                                                        SÓLO VIVIENDAS COLECTIVAS
+                                                                                                      este hogar?
+              4. CENSISTA: Si le indicaron                                                                                                                                                                   6. ¿Cuántas personas viven aquí, en esta vivienda colectiva?
+                    que en el hogar la                                                                                 Hombres
+                                                                                                                                                                                                                                      Hombres
+                    jefatura es compartida con
+                    la pareja, MARQUE AQUÍ                                                                             Mujeres
+                                                                                                                                                                                                                                      Mujeres
+
+                                                                                                                       Total                                                                                                                                                           Pase al
+                                                                                                                                                                                                                                      Total                                           BLOQUE IV
+
+              7. ¿Alguna persona que formaba parte de este hogar se encuentra viviendo en otro país?
+                Sí  .  .  .                     1                                 ¿Cuántas?                                                                                                                                          No  .  .  .            2
+                                                                                                                     1             2             3             4              5 y más, anote
+
+             8. En el último año, ¿alguna persona de este hogar…
+                                                                                                                                                                                                                                                       Sí                 No
+                … recibió dinero o bienes de alguien que vive en el extranjero, para uso de este hogar? .  .  .  .  .  .  .  .  .  .  .  .  .  .                                                                                                            1                   2
+                … envió dinero o bienes a alguna persona que vive en el extranjero, para uso de ese hogar? .  .  .  .  .  .  .  .  .  .                                                                                                                     1                   2
+
+             9. ¿Alguna persona de este hogar...
+                … tiene parcela o finca agropecuaria?  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                            1
+                … realizó cultivos durante el último año? (en terreno propio, alquilado, prestado)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                                                                        2
+                 . . . tiene ganado, cerdos, gallinas, patos, chompipes, gansos, otros? (para la venta o autoconsumo)  .  .  .  .  .  .  .                                                                                                                  3
+                 Ninguna de las anteriores  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .         4
+
+
+                                                                                                                                                                          3
+                                                                                                              Características Sociales y Demográficas INEC                                                                        CENSO 2011      335
+
+
+                                                          BLOQUE IV: CARACTERÍSTICAS SOCIOECONÓMICAS
+      Persona N°                           Nombre
+
+                          PARA TODAS LAS PERSONAS                                                                       10. ¿ (Nombre) se considera...
+1. ¿Qué parentesco tiene (nombre) con (persona N 01)?                   o                                                    ... negro(a) o                                          ... blanco(a) o
+                                                                                                                                 afrodescendiente?                          1            mestizo(a)? . . . . . . .                    4
+ Jefe o jefa . . . . . . . . . . .              1       Cuñado(a). . . . . . . . . . . .                  7                  ... mulato(a)? . . . . . . . .                 2        Otro . . . . . . . . . . . . . . .               5
+ Esposo(a) o                                            Padre o madre . . . . . . .                       8                  ... chino(a)? . . . . . . . . .                3        Ninguna. . . . . . . . . . . .                   6
+ compañero (a) . . . . . . . . .                2       Suegro(a) . . . . . . . . . . . .                 9
+ Hijo(a) o hijastro(a). . . .                   3       Otro familiar. . . . . . . . .                   10             11. ¿Qué tipo de seguro social tiene (nombre)?
+ Yerno o nuera . . . . . . . .                  4       Servicio doméstico                                                   Asalariado(a). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     1
+ Nieto(a) o bisnieto(a) . .                     5       y su familiar . . . . . . . . .                  11
+                                                                                                                             Cuenta propia, voluntario o convenio . . . . . . . . . . .                                       2
+ Hermano(a) . . . . . . . . . .                 6       Otro no familiar . . . . . .                     12
+                                                                                                                             Régimen no contributivo (recibe pensión) . . . . . . . .                                         3
+2. ¿Es hombre o mujer?                                                                                                       Pensionado(a) de la CCSS, Magisterio u otro . . . . .                                            4
+                                                                                                                             Asegurado(a) familiar . . . . . . . . . . . . . . . . . . . . . . . .                            5
+   Hombre . . .                    1                Mujer . . .                   2
+                                                                                                                             Asegurado(a) por el Estado . . . . . . . . . . . . . . . . . . .                                 6
+3. ¿Cuántos años cumplidos tiene (nombre)?                                                                                   Otras formas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 7
+                                                                                                                             No tiene seguro social de la CCSS . . . . . . . . . . . . . .                                    8
+   Menos de 1 año . . .                        0           Años. . .
+                                                                                                                        12. ¿(Nombre) tiene alguna limitación permanente…                                    Puede marcar
+                                                                                                                                                                                                            varias opciones
+4. ¿En qué fecha nació (nombre)?
+                                                                                                                            … para ver aún con los anteojos o lentes puestos?                                                 1
+   Día                        Mes                        Año                                                                … para oír? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   2
+                                                                                                                            … para hablar? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      3
+5. Cuando (nombre) nació, ¿dónde vivía la mamá?                                                                             … para caminar o subir gradas? . . . . . . . . . . . . . . . .                                    4
+   En este mismo cantón . . . .                                 1                                       Pase a 7            … para utilizar brazos o manos?. . . . . . . . . . . . . . . .                                    5
+                                                                                                                            … de tipo intelectual? (retardo, síndrome de Down, otros)                                         6
+   En otro cantón . . . . . . . . . . .                         2
+     ¿En cuál cantón?                                                                                                       … de tipo mental? (bipolar, esquizofrenia, otros) . . . . .                                       7
+                                                                                                                            Ninguna de las anteriores . . . . . . . . . . . . . . . . . . . . .                               8
+                                                                                                             Pase
+                                                                                                              a7        13. ¿Asiste (nombre) a …
+                                                                                                                            … guardería, maternal o prekinder? . . . . . . . . . . . . .                                      1
+      ¿En cuál provincia?
+                                                                                                                            ... preparatoria o kinder, escuela o colegio?. . . . . . .                                        2
+        1         2                    3            4               5                 6             7
+San José       Alajuela       Cartago       Heredia      Guanacaste         Puntarenas      Limón                           … educación abierta? (presenta exámenes ante el MEP)                                              3
+                                                                                                                            ... parauniversitaria o universitaria?. . . . . . . . . . . . .                                   4
+   En otro país . . . . . . . . . . . . .                      3
+                                                                                                                            … enseñanza especial? . . . . . . . . . . . . . . . . . . . . . . . .                             5
+     ¿Cuál país?
+                                                                                                                            … centro diurno para adultos(as) mayores?. . . . . . .                                            6
+Nicaragua Estados Unidos Colombia                        El Salvador            Panamá          Cuba                        No asiste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 7       Pase a 15
+
+      Otro país                                                                                                         14. ¿El centro al que asiste (nombre) es…
+                                                                                                                           … público? . . .                      1    … privado o semiprivado? . . .                              2
+
+6. ¿En qué año llegó (nombre) a vivir a Costa Rica?                                                                                          SÓLO PARA PERSONAS DE 5 AÑOS O MÁS
+                                     Si no sabe el año pregunte
+                                                                                                                        15. ¿(Nombre) sabe leer y escribir?
+¿Llegó a vivir a Costa Rica…                                                                                                      Sí . . .                  1                    No . . .                  2
+… antes de 1980?                               1        … entre 1990 y 1999?                             3
+… entre 1980 y 1989?                           2        … en el 2000 o luego?                            4              16. ¿Cuál es el último grado o año que aprobó (nombre)?
+                                                                                                                                                    Nivel
+                                                                                                                        Ningún grado. . .                   60
+7. ¿(Nombre) se considera indígena?                                                                                     Enseñanza
+                                                                                                                        especial . . . . . . .              70
+  Sí . . .                1                     No . . .                    2             Pase a 10                     Kinder o                                                 Último año aprobado
+                                                                                                                        preparatoria . . .                  80
+8. ¿A qué pueblo indígena pertenece (nombre)?                                                                           Primaria . . . . . . .              1
+                                                                                                                                                                       1         2       3        4         5         6
+   Bribri. . . . . . . . . . . .                1         Maleku o Guatuso . .                            6             Secundaria
+   Brunca o Boruca. .                           2                                                                       académica . . . . .                 2
+                                                          Ngöbe o Guaymí. . . .                           7                                                           1          2       3        4         5
+   Cabécar. . . . . . . . . .                   3         Teribe o Térraba. . . .                         8             Secundaria
+                                                                                                                        técnica . . . . . . . .             3         1          2       3        4         5         6
+   Chorotega. . . . . . . .                     4         De otro país . . . . . . .                      9
+   Huetar. . . . . . . . . . .                  5         Ningún pueblo . . . . .                        10             Parauniversitaria                   4
+                                                                                                                                                                      1          2       3
+9. ¿Habla (nombre) alguna lengua indígena?                                                                              Universitaria . . .                 5
+                                                                                                                                                                      1      2       3       4        5     6     7       8       9
+    Sí . . .              1 Pase a 11                                                                                                             17. ¿Tiene título en este nivel?
+    No . . .              2                                                                                                                           Sí . . .              1                         No . . .                2
+
+                                                                                                                    4
+336 Características Sociales y Demográficas INEC                                                             CENSO 2011
+
+
+
+
+                     Continuación . . .
+
+
+             18. ¿En los últimos 3 meses (nombre) ha usado...                                                                                               SOBRE EL TRABAJO PRINCIPAL
+                                                                                             Sí                   No                  24. ¿Cuál es la ocupación u oficio que tiene (nombre) en ese trabajo?
+               ... celular? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1                       2
+               … computadora? . . . . . . . . . . . . . . . . . . . . . .                         1                       2
+               … Internet? . . . . . . . . . . . . . . . . . . . . . . . . . .                    1                       2
+
+             19. ¿Dónde vivía (nombre) hace cinco años? (Mayo de 2006)
+               En este mismo cantón . . . .                                     1                                  Pase a 20
+                                                                                                                                      25. ¿Cuál es la principal tarea que hace? Explíqueme
+               En otro cantón . . . . . . . . . . .                             2
+                 ¿En cuál cantón?
+
+                                                                                                                          Pase
+                                                                                                                          a 20
+                                                                                                                                      26. ¿Cómo se llama la empresa, institución, o negocio, para el que
+                  ¿En cuál provincia?                                                                                                    trabaja (nombre)?
+                    1         2                      3              4                   5             6           7
+             San José      Alajuela        Cartago        Heredia       Guanacaste          Puntarenas    Limón
+
+               En otro país . . . . . . . . . . . . .                           3
+                 ¿Cuál país?                                                                                                           27. ¿Qué se produce o a qué se dedica la empresa, institución, o negocio
+                                                                                                                                         para el que trabaja (nombre)?
+             Nicaragua Estados Unidos Colombia                          El Salvador           Panamá        Honduras
+                  Otro país
+
+
+
+
+                         SÓLO PARA PERSONAS DE 12 AÑOS O MÁS
+             20. ¿(Nombre) actualmente está...                                                                                        28. En ese trabajo (nombre) es...
+              ... en unión libre o juntado(a)?                              1       ... divorciado(a)? . . .                  4
+                                                                                                                                        ... patrono(a)? (tiene empleados(as) fijos(as)) . . . . . . . . . . .                        1
+              ... casado(a)? . . . . . . . . . . . . . .                    2       ... viudo(a)? . . . . . . .               5
+                                                                                                                                        ... trabajador(a) por cuenta propia?. . . . . . . . . . . . . . . .                          2
+              ... separado(a)? . . . . . . . . . . . .                      3       ... soltero(a)? . . . . .                 6
+                                                                                                                                        ... empleado(a) de empresa privada?. . . . . . . . . . . . . . . . .                         3
+                                                                                                                                        ... empleado(a) del sector público?. . . . . . . . . . . . . . . . . . .                     4
+             21. ¿(Nombre) la semana pasada...                                                                                          ... empleado(a) de casas particulares? . . . . . . . . . . . . .                             5
+                 ... trabajó durante una hora o más? (sin contar los                                                                    ... ayudante sin recibir pago?. . . . . . . . . . . . . . . . . . . . .                      6
+                     oficios domésticos de su hogar) . . . . . . . . . . . . . . . . . . .                            1
+                 ... no trabajó pero tiene empleo? . . . . . . . . . . . . . . . . . .
+                                                                                                                        Pase
+                                                                                                                      2 a 24          29. ¿El lugar donde trabaja (nombre) queda…
+                 ... ayudó en un negocio o finca familiar sin pago?. . . .                                            3                  … dentro o junto a esta vivienda?. . . . .                             1 Pase a 30
+                 Ninguna de las anteriores . . . . . . . . . . . . . . . . . . . . . . .                              4                  … en este mismo cantón? . . . . . . . . . . .                          2
+             22. ¿La semana pasada (nombre) realizó por algún tipo de pago...                                                            … en otro cantón? . . . . . . . . . . . . . . . . . .                   3
+                                                                                                                                           ¿En cuál cantón?
+                … labores agrícolas, crió animales o pescó? . . . . . . . .                                           1
+                … vendió productos? . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           2 Pase                                                                                                             Pase
+                                                                                                                        a 24                                                                                                             a 30
+                … cuidó personas, limpió o planchó para otro hogar?                                                   3
+                … hizo trabajos variados? (“camarones”, “chambas”) . . .                                              4
+                No realizó ninguna de las anteriores . . . . . . . . . . . . . .                                      5                     ¿En cuál provincia?
+                                                                                                                                              1          2                 3            4             5                6             7
+             23. ¿La semana pasada (nombre)…                                                                                            San José     Alajuela     Cartago       Heredia     Guanacaste       Puntarenas      Limón
+
+               … buscó trabajo y había trabajado antes? . . . . . . . . . .                                           1                  ... en varios cantones? . . . . . . . . . . . . . .                     4
+               … buscó trabajo por primera vez? . . . . . . . . . . . . . . . . .                                     2                  ... en otro país? . . . . . . . . . . . . . . . . . . . .               5
+               … es pensionado(a) o jubilado(a)? . . . . . . . . . . . . . . . . . .                                  3 Pase
+                                                                                                                                                    SÓLO PARA MUJERES DE 12 AÑOS O MÁS
+               ... vive de rentas o alquileres? . . . . . . . . . . . . . . . . . . . . .                             4 a 30
+               … sólo estudió? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      5                30. ¿Cuántas hijas e hijos nacidos vivos ha tenido (nombre)?
+               … se dedicó a los oficios domésticos de su hogar? . . .                                                6
+                                                                                                                                                   Total                                  Ninguno. . .               00 Pase a la
+               Otra situación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    7                                                                                                    siguiente persona
+
+
+                                                                                                                                       31. De ellos(as), ¿cuántos(as) están vivos(as) actualmente?
+                                                                                                                                                   Ninguno                00                         Total
+
+
+                                                                                                                                  5
+                                                                                   Características Sociales y Demográficas INEC                                         CENSO 2011   337
+
+
+                                                   CONFIDENCIALIDAD DE LA INFORMACIÓN
+El Instituto Nacional de Estadística y Censos, es el ente técnico rector de las estadísticas nacionales y coordinador del Sistema de Estadística Nacional (SEN). Esta
+función le fue asignada en la Ley del Sistema de Estadística Nacional (Nº 7839 de fecha 04 de noviembre de 1998), la cual se promulgó considerando, entre otras
+cosas, la importancia de contar con datos estadísticos oportunos y actualizados sobre los cuales basarse para establecer políticas económicas y sociales.
+
+Esta Ley también establece la confidencialidad de los datos suministrados:
+
+Artículo 4 : “(…) Los datos obtenidos según esta Ley serán estrictamente confidenciales (...) Los datos procedentes de personas físicas o jurídicas privadas (…) no
+podrán ser publicados en forma individual, sino como parte de cifras globales, que serán las correspondientes a tres o más personas físicas y jurídicas; tampoco
+podrán suministrarse con propósitos fiscales ni de otra índole”.
+
+Artículo 5: “El SEN podrá solicitar la información relativa a su actividad, a todas las personas físicas y jurídicas residentes en Costa Rica...”
+
+
+
+                                                Provincias y cantones de Costa Rica
+San José                          Alajuela                Cartago                Heredia                Guanacaste Puntarenas Limón
+San José                          Alajuela                Cartago                Heredia                Liberia                Puntarenas           Limón
+Escazú                            San Ramón               Paraíso                Barva                  Nicoya                 Esparza              Pococí
+Desamparados                      Grecia                  La Unión               Santo Domingo          Santa Cruz             Buenos Aires         Siquirres
+Puriscal                          San Mateo               Jiménez                Santa Bárbara          Bagaces                Montes de Oro        Talamanca
+Tarrazú                           Atenas                  Turrialba              San Rafael             Carrillo               Osa                  Matina
+Aserrí                            Naranjo                 Alvarado               San Isidro             Cañas                  Aguirre              Guácimo
+Mora                              Palmares                Oreamuno               Belén                  Abangares              Golfito
+Goicoechea                        Poás                    El Guarco              Flores                 Tilarán                Coto Brus
+Santa Ana                         Orotina                                        San Pablo              Nandayure              Parrita
+Alajuelita                        San Carlos                                     Sarapiquí              La Cruz                Corredores
+Coronado                          Alfaro Ruiz                                                           Hojancha               Garabito
+Acosta                            Valverde Vega
+Tibás                             Upala
+Moravia                           Los Chiles
+Montes de Oca                     Guatuso
+Turrubares
+Dota
+Curridabat
+Pérez Zeledón
+León Cortés
+
+                                    DESCRIPCIÓN DE LA OCUPACIÓN Y LA RAMA DE ACTIVIDAD
+Para la pregunta 24 del Bloque IV, sobre la ocupación principal, usted                         Para la pregunta 27 del Bloque IV, sobre la rama de actividad, usted
+puede detallar las respuestas como en los siguientes ejemplos:                                 puede iniciar con respuestas como las siguientes:
+
+Directora de escuela              Empleada doméstica
+Directora de hospital             Camarera                                                       Cultivo de…                           Venta de repuestos para …
+Agricultor                        Dependiente de tienda                                          Fabricación de muebles de …           Transporte terrestre de carga
+Peón agrícola                     Pulpera
+                                                                                                 Construcción de…                      Fabricación de…
+Peón de construcción              Criador de tilapias
+                                                                                                 Venta al por menor de…                Reparación de…
+Maestro de escuela                Cajera de banco
+Maestro de obras                  Cajera de supermercado                                         Venta al por mayor de…                Enseñanza primaria
+Mecánico dental                   Chofer de autobús                                              Servicios domésticos                  Enseñanza secundaria
+Mecánico de vehículos             Chofer de camión de carga
+
+
+
+                                                                       OBSERVACIONES
+
+
+
+
+                                                                                       6
+                                                                        ISBN: 978-9968-921-95-4
+
+
+
+INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSOS (INEC)
+
+  El INEC fue creado mediante Ley Nº 7839, publicada en el Diario Oficial La Gaceta el 4 de noviembre
+de 1998, como una institución autónoma de derecho público, con personalidad jurídica y patrimonio
+propio. Su función es ser el ente técnico rector de las estadísticas nacionales y coordinador del
+Sistema de Estadística Nacional.
+
+  El INEC tiene entre sus atribuciones el suministrar al público de modo claro y oportuno, los
+resultados de la actividad estadística así como las metodologías empleadas. También promueve
+la investigación, el desarrollo, el perfeccionamiento y la aplicación de la metodología estadística.
+
+  Entre las principales estadísticas nacionales que debe elaborar están: las estadísticas vitales,
+demográficas, de comercio exterior y de construcción. Las procedentes de los censos nacionales de
+población y vivienda, las agropecuarias y los censos económicos; además, de las emanadas de las
+encuestas de hogares de propósitos múltiples, de encuestas agropecuarias, de ingresos y gastos
+de los hogares, de encuestas económicas y los índices de precios, entre otras.
+
+
+
+
+               INEC. De la Rotonda de La Bandera 450m oeste, sobre Calle Los Negritos,
+                      edificio Ana Lorena, Mercedes de Montes de Oca, Costa Rica.
+                                             www.inec.go.cr
+                               Correo electrónico: informacion@inec.go.cr
+                     Fax: (506) 2224-2221 - Teléfono: (506) 2280-9280 ext. 326 - 327 -
+                                 Apdo. 10163-1000 San José, Costa Rica
+
