@@ -142,13 +142,13 @@ def summarise(p, mdl):
                                                                     lambda_half_rate=float(p["kappa"] / p["D"]) if p["D"] > 0 else None, var_share_modes_slower_than_4y=float(np.sum(c[(p["kappa"] + p["D"] * lam) < 0.25]) / c.sum()))
     return out
 if args.synthetic:   # recovery run: Y <- draw from a fitted model (real-data parameters), zero mean
-    real = json.load(open(cf.PROC / "stage6_joint_dynamics.json"))["models"]; pt = dict(real["SK"]["params"]); mt = dict(real["SK"]["model"])
+    real = json.load(open(cf.PROC / "stage6_joint_dynamics.json"))["models"]; src_ = "SD" if args.synthetic == "SD" else "SK"; pt = dict(real[src_]["params"]); mt = dict(real[src_]["model"])
     SMU_BASE[0] = np.array([real["S"]["params"][f"smu{t}"] for t in range(T)])
     if args.synthetic == "SKD5": pt.update(sd=0.01, kappa=0.03, D=0.9)
     elif args.synthetic == "SKD2": pt.update(sd=0.0035, kappa=0.03, D=0.9)   # ~2.5 % of the field variance
     elif args.synthetic == "SKD2s": pt.update(sd=0.0035, kappa=0.004, D=0.7)   # 2.5 %, slow relaxation (the regime of the real-data SKD fit)
     elif args.synthetic == "SKD1": pt.update(sd=0.0014, kappa=0.03, D=0.9)   # ~1 % of the field variance
-    elif args.synthetic != "SK": raise SystemExit("--synthetic must be SK, SKD5, SKD2, SKD2s or SKD1")
+    elif args.synthetic not in ("SK", "SD"): raise SystemExit("--synthetic must be SK, SD, SKD5, SKD2, SKD2s or SKD1")   # SD: diffusive truth (reverse gate: do drifting kernels manufacture a drift preference?)
     St = build_sigma(pt, mt); Lt = np.linalg.cholesky(St); Y = Lt @ np.random.default_rng(args.seed).standard_normal(n * T); del St, Lt
     truth = dict(name=args.synthetic, params=pt, model=mt, smu=[float(x) for x in SMU_BASE[0]]); print(f"synthetic Y from {args.synthetic}: {pt}", flush=True)
 emp = {f"{abs(YEARS[b]-YEARS[a]):.2f}": [] for a, b in itertools.combinations(TAGS, 2)}

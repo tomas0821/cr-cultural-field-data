@@ -111,7 +111,7 @@ else:
     ax[0, 1].text(0.5, 0.5, "recovery panel\n(rerun pending)", ha="center", va="center", transform=ax[0, 1].transAxes)
 ax[0, 1].set_xlabel(r"$w$"); ax[0, 1].set_ylabel(r"$\Delta$NLL + 1 (synthetic, 5 elections)"); ax[0, 1].set_title(f"recovery, $\\ell_c$ = {rec.get('lc', LC)} km, n = {rec.get('n', n)}", fontsize=8)
 jg = grids[grids.tag == "joint5"]; lcp = jg.groupby("lc").nll.min(); lcp = lcp - lcp.min()
-ax[1, 0].plot(lcp.index, lcp.values + 1, "ko-", ms=3, label="data, sum of 5 first rounds"); ax[1, 0].set_xscale("log"); ax[1, 0].set_yscale("log"); ax[1, 0].set_xlabel(r"$\ell_c$ (km)"); ax[1, 0].set_ylabel(r"$\Delta$NLL + 1 ($w$ profiled; $k$ = 13 below 3 km)")
+ax[1, 0].plot(lcp.index, lcp.values + 1, "ko-", ms=3, label="data, sum of 5 first rounds"); ax[1, 0].set_xscale("log"); ax[1, 0].set_yscale("log"); ax[1, 0].set_xlabel(r"$\ell_c$ (km)"); ax[1, 0].set_ylabel(r"$\Delta$NLL + 1 ($w$ profiled; $k\in\{5,8,13\}$ at $\ell_c\geq1.5$ km, 13 elsewhere)")
 if (cf.PROC / "stage3a_lcprofile_landscape.json").exists():   # synthetic sets generated from the landscape model (no Laplacian) and fitted with Eq. (1)
     LS = json.load(open(cf.PROC / "stage3a_lcprofile_landscape.json")); lcs_ = [float(x) for x in LS["grid"]]
     prof_ = np.array([[r_["profile"][str(l)]["dNLL"] for l in lcs_] for r_ in LS["results"]]).mean(0)
