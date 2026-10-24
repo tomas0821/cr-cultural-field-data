@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the companion article and this deposit."
+title: "Cultural field of electoral turnout in Costa Rica, 2010-2026: derived data and analysis code"
+authors:
+  - family-names: Rojas
+    given-names: Tomás
+    affiliation: "Escuela de Física, Universidad de Costa Rica"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-24
+repository-code: "https://github.com/tomas0821/cr-cultural-field-data"

@@ -1,0 +1,10 @@
+{
+  "title": "Cultural field of electoral turnout in Costa Rica, 2010-2026: derived data and analysis code",
+  "description": "Derived district-level tables, Lasker isonymy and surname-overlap matrices, model outputs and analysis code for the study of the cultural-field model of electoral turnout on the Costa Rican electoral districts (six presidential result sets, 2010-2026), with a kinship kernel measured from the surnames of the national electoral roll. Companion to the manuscript \"Where does the cultural field live? A slowly drifting kinship landscape, not a diffusing field, in Costa Rican turnout, 2010-2026\".",
+  "creators": [{"name": "Rojas, Tomás", "affiliation": "Escuela de Física, Universidad de Costa Rica"}],
+  "license": "MIT",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "keywords": ["electoral turnout", "spatial correlations", "cultural field", "isonymy", "Lasker distance", "Gaussian field on a graph", "Costa Rica", "sociophysics"],
+  "notes": "Code under the MIT licence; derived data under CC BY 4.0. Raw electoral files are published by the Tribunal Supremo de Elecciones of Costa Rica and are not redistributed."
+}
