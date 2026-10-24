@@ -4,6 +4,8 @@ Derived data and analysis code for the manuscript *Where does the cultural field
 
 The study tests the diffusive "cultural field" model of electoral correlations on the Costa Rican electoral district (*distrito electoral*, ~2 100 units) using six presidential result sets (2010, 2014, 2018, 2022 first round and run-off, 2026) and a kinship kernel computed from the surnames of all electors in the national roll (Lasker isonymy distance and Bhattacharyya surname-overlap between districts).
 
+Archived at Zenodo: concept DOI [10.5281/zenodo.23623125](https://doi.org/10.5281/zenodo.23623125) (v1.0.0: [10.5281/zenodo.23623126](https://doi.org/10.5281/zenodo.23623126)).
+
 ## Layout
 
 - `scripts/` — one script per stage, run from the repository root:
