@@ -19,11 +19,11 @@ ax[0].plot(tcx, tcy, "+", color="0.55", ms=5, mew=0.8, label="raw, before the co
 ro = np.isin(np.round(x, 2), [0.15, 3.85, 4.15, 8.15, 12.15]); se = (1 - y ** 2) / np.sqrt(J["n"] - 3)
 ax[0].errorbar(x[~ro], y[~ro], yerr=se[~ro], fmt="ko", ms=4, capsize=1.5, elinewidth=0.6, label="data, first-round pairs", zorder=5)
 ax[0].errorbar(x[ro], y[ro], yerr=se[ro], fmt="ko", mfc="white", ms=4, capsize=1.5, elinewidth=0.6, label="data, pairs with the 2022 run-off", zorder=5)
-for key, lab, st in (("S", "frozen landscape (S)", "C3v"), ("SD", "S + diffusive, $w=1$ (SD)", "C0s"), ("SK", "S + drifting kernels (SK)", "C2^"), ("SKD", "SK + diffusive (SKD)", "C4x"), ("SKU", "SK, drifting unit term (SKU)", "C5d")):
+for key, lab, st in (("S", "frozen landscape (S)", "C3v"), ("SD", "S + diffusive, $w=1$ (SD)", "C0s"), ("SK", "S + drifting kernels (SK)", "C2^"), ("SKD", "SK + diffusive (SKD)", "C4x"), ("SKU", "SK, drifting district term (SKU)", "C5d")):
     if key in R:
         c = R[key]["model_corr_vs_dT"]; xx = np.array([float(k) for k in c]); yy = np.array(list(c.values()))
         ax[0].plot(xx, yy, st, ms=3.5, mfc="none", label=lab)
-ax[0].set_xlabel(r"$\Delta t$ (years)"); ax[0].set_ylabel(r"corr$(\tau'_t, \tau'_{t'})$"); ax[0].set_ylim(0.66, 0.96); ax[0].legend(frameon=False, loc="upper center", bbox_to_anchor=(0.5, -0.26), ncol=2, fontsize=5.2, handletextpad=0.3, columnspacing=0.8, labelspacing=0.25); ax[0].set_title("(a) persistence", loc="left")
+ax[0].set_xlabel(r"$\Delta t$ (years)"); ax[0].set_ylabel(r"corr$(\tau'_t, \tau'_{t'})$"); ax[0].set_ylim(0.66, 0.96); ax[0].legend(frameon=False, loc="upper center", bbox_to_anchor=(0.5, -0.26), ncol=2, fontsize=6.5, handletextpad=0.3, columnspacing=0.8, labelspacing=0.25); ax[0].set_title("(a) persistence", loc="left")
 # (b)
 if "D_profile_w1" in J:
     pr = J["D_profile_w1"]; Dg = np.array([float(k) for k in pr]); nl = np.array(list(pr.values())); nl0 = R["SD"]["nll"] if "SD" in R else nl.min()
@@ -35,7 +35,7 @@ if "D_profile_w1" in J:
     ew = {float(k[6:]): v["nll"] for k, v in R.items() if k.startswith("SKDe_D")}
     if "SKDe" in R and ew:   # EW-consistent weights with drifting kernels: profile in D relative to its own optimum (D -> 0)
         ew[0.0] = R["SKDe"]["nll"]; De = np.array(sorted(ew)); ne = np.array([ew[d] for d in De]); ax[1].plot(np.where(De > 0, De, 3e-3), ne - ne.min(), "C2s--", ms=3.5, label=r"EW weights, SKD (vs own best)")
-    ax[1].legend(frameon=False, loc="center left", fontsize=5.5); ax[1].set_title("(b) diffusion signature", loc="left")
+    ax[1].legend(frameon=False, loc="center left", fontsize=6.5); ax[1].set_title("(b) diffusion signature", loc="left")
 # (c)
 keys = ["static_geo", "static_kinship", "static_unit", "dyn_unit", "dyn_field", "dyn_kinship", "dyn_geo", "election_noise", "binomial"]
 labs = {"static_geo": "frozen geo", "static_kinship": "frozen kinship", "static_unit": "persistent district", "dyn_unit": "drifting district", "dyn_field": "diffusive field", "dyn_kinship": "drifting kinship", "dyn_geo": "drifting geo", "election_noise": "election noise", "binomial": "binomial"}
@@ -44,7 +44,7 @@ for i, kk in enumerate(keys):
     v = np.array([R[mm]["share"].get(kk, 0.0) for mm in mods])
     if v.sum() == 0: continue
     ax[2].bar(range(len(mods)), v, bottom=bottom, label=labs[kk], color=f"C{i}", width=0.6); bottom += v
-ax[2].set_xticks(range(len(mods))); ax[2].set_xticklabels(mods); ax[2].set_ylabel("share of var($\\tau'$)"); ax[2].legend(frameon=False, fontsize=6, ncol=1, loc="upper left", bbox_to_anchor=(1.0, 1.02), handlelength=1, borderaxespad=0)
+ax[2].set_xticks(range(len(mods))); ax[2].set_xticklabels(mods); ax[2].set_ylabel("share of var($\\tau'$)"); ax[2].legend(frameon=False, fontsize=6.5, ncol=1, loc="upper left", bbox_to_anchor=(1.0, 1.02), handlelength=1, borderaxespad=0)
 ax[2].set_ylim(0, 1.0); ax[2].set_title("(c) variance budget", loc="left")
 cf.FIG.mkdir(exist_ok=True)
 for ext in ("pdf", "png"): fig.savefig(cf.FIG / f"fig5_joint_dynamics.{ext}", dpi=300)
