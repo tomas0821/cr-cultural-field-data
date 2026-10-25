@@ -11,7 +11,7 @@ import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 plt.rcParams.update({"font.size": 8, "axes.labelsize": 8, "legend.fontsize": 7, "xtick.labelsize": 7, "ytick.labelsize": 7, "pdf.fonttype": 42})
 J = json.load(open(cf.PROC / "stage6_joint_dynamics.json")); R = J["models"]
 if "D_profile_w1" not in J: J["D_profile_w1"] = {k[4:]: v["nll"] for k, v in R.items() if k.startswith("SD_D")}
-fig, ax = plt.subplots(1, 3, figsize=(17.8 / 2.54, 7.6 / 2.54)); fig.subplots_adjust(wspace=0.45, left=0.07, right=0.86, bottom=0.34, top=0.9)
+fig, ax = plt.subplots(1, 3, figsize=(17.8 / 2.54, 7.0 / 2.54)); fig.subplots_adjust(wspace=0.45, left=0.07, right=0.86, bottom=0.36, top=0.9)
 # (a)
 e = J["empirical_corr_vs_dT"]; x = np.array([float(k) for k in e]); y = np.array(list(e.values())); o = np.argsort(x)
 s1_ = json.load(open(cf.PROC / "stage1_summary.json")); tc_ = s1_["temporal_correlation"]; tcx = np.array([float(r_["dT"]) for r_ in tc_]); tcy = np.array([float(r_["corr"]) for r_ in tc_])
