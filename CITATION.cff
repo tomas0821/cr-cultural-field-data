@@ -3,8 +3,12 @@ message: "If you use these data or this code, please cite the companion article 
 title: "Cultural field of electoral turnout in Costa Rica, 2010-2026: derived data and analysis code"
 authors:
   - family-names: Rojas
-    given-names: Tomás
-    affiliation: "Escuela de Física, Universidad de Costa Rica"
+    given-names: Tomas
+    affiliation: "CICIMA and Sede de Occidente, Universidad de Costa Rica"
+    orcid: "https://orcid.org/0000-0001-5745-4255"
+  - family-names: Thorat
+    given-names: Ruhi
+    affiliation: "Department of Physics and Astronomy, Ohio University"
 license: MIT
 version: 1.0.0
 date-released: 2026-10-24
