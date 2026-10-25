@@ -207,6 +207,9 @@ if "hfree" in todo:   # binomial scale h free (hb = h / 1.43) in S (six noise va
         st = dict(R[src]["params"])
         if "smu_scale" in st: sc = st.pop("smu_scale"); st.update({f"smu{t}": sc * SMU_BASE[0][t] for t in range(T)})
         st["hb"] = 1.0; run(key, list(st), np.log(list(st.values())), dict(R[src]["model"]))
+for key, src, w_ in (("SKDw0", "SK", 0.0), ("SKUDw0", "SKU", 0.0)):   # diffusive term on the surname graph (w = 0) beside the drifting landscape
+    if key not in todo or src not in R: continue
+    st = dict(R[src]["params"]); st.update(sd=0.01, kappa=0.03, D=0.5); run(key, list(st), np.log(list(st.values())), dict(lr=lr_best, w=w_))
 if "SKf" in todo or "SKDf" in todo:   # election noise variances free (six parameters) in the dynamic models
     for key, src in (("SKf", "SK"), ("SKDf", "SKD")):
         if key not in todo: continue
