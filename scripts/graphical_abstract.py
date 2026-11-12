@@ -24,7 +24,7 @@ fig.text(0.02, 0.84, "Turnout correlations in Costa Rica, 2010–2026", fontsize
 axm = fig.add_axes([0.0, 0.14, 0.47, 0.66])
 sc = axm.scatter(pc.E_crtm05 / 1e3, pc.N_crtm05 / 1e3, c=pc.PCo1, s=3.2, cmap="RdBu_r", vmin=-2.2, vmax=2.2, linewidths=0)
 axm.set_aspect("equal"); axm.axis("off")
-fig.text(0.235, 0.115, "kinship landscape: surname distance\nbetween 2,000 electoral districts (3.7 M electors)",
+fig.text(0.25, 0.115, "kinship landscape: surname distance\nbetween 2,000 electoral districts (3.7 M electors)",
          ha="center", va="top", fontsize=6.3, color="#333333")
 cax = fig.add_axes([0.04, 0.24, 0.11, 0.022])
 cb = fig.colorbar(sc, cax=cax, orientation="horizontal", ticks=[])
@@ -64,4 +64,7 @@ out = cf.FIG / "graphical_abstract.png"
 fig.savefig(out, dpi=100, facecolor="white")
 fig.savefig(cf.FIG / "graphical_abstract_2x.png", dpi=200, facecolor="white")
 plt.close(fig)
+from PIL import Image  # flatten to opaque RGB (no alpha channel) for the journal uploader
+for f in (out, cf.FIG / "graphical_abstract_2x.png"):
+    Image.open(f).convert("RGB").save(f)
 print("wrote", out)
