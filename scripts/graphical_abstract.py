@@ -36,7 +36,7 @@ x = np.linspace(0, 1, 300)
 base = 0.6 * np.sin(2 * np.pi * 2.3 * x + 0.4) + 0.4 * np.sin(2 * np.pi * 5.1 * x + 1.7) + 0.25 * np.sin(2 * np.pi * 9 * x)
 years = ["2010", "2014", "2018", "2022", "2026"]
 cols = plt.cm.viridis(np.linspace(0.1, 0.9, len(years)))
-rows = [("diffusing field on geography", "relaxes between elections", False),
+rows = [("diffusing field on geography", "not detected within the tested sensitivity", False),
         ("frozen kinship landscape", "identical in every election", False),
         ("slowly drifting kinship landscape", "same shape, slow drift", True)]
 y0 = [0.72, 0.42, 0.12]; amp = 0.05; xe = 0.86
